@@ -1,0 +1,168 @@
+.hero {
+  width: 100%;
+  padding: 6rem 0;
+  box-sizing: border-box;
+  /* background-color: #0e0e0e; */
+  color: #fff;
+  text-align: center;
+}
+
+.container {
+  /* max-width: 1200px; */
+  padding: 0 7%;
+  margin: 0 auto;
+}
+
+.container h2 {
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+.container h2 span {
+  color: #a365ff; /* highlight color */
+}
+
+.container > p {
+  max-width: 650px;
+  margin: 0.5rem auto 5rem;
+  color: #ccc;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+.exploreBtn {
+  padding: 1px 9px 2px 9px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid #a365ff;
+  background: #a365ff1f;
+  color: #a365ff;
+}
+
+.exploreBtn h5 {
+  font-size: 12px;
+}
+
+.grid {
+  /* display: grid;
+  grid-template-columns: 50% 50%; */
+  height: 70vh;
+  position: relative;
+}
+
+.grid a {
+  color: #a365ff;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.grid > div {
+  height: 100%;
+}
+
+.gridItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+.sceneCon {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Top fade & bottom fade using pseudo-elements */
+.sceneCon::before,
+.sceneCon::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 30px; /* Height of the gradient overlay */
+  z-index: 2; /* Ensure fade is on top of scrolling text */
+}
+
+/* Top gradient fade (solid color at top -> transparent) */
+.sceneCon::before {
+  top: 0;
+  content: "";
+  position: absolute;
+  background: linear-gradient(var(--dir, to bottom), #010915, transparent);
+  height: 25%;
+  width: 100%;
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* Bottom gradient fade (solid at bottom -> transparent) */
+.sceneCon::after {
+  bottom: 0;
+  content: "";
+  /* position: absolute; */
+  background: linear-gradient(var(--dir, to top), #010915, transparent);
+  height: 25%;
+  width: 100%;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.faqCon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  margin-top: 3rem;
+  width: 100%;
+  z-index: 10;
+}
+
+.faqCon > div {
+  width: 50%;
+}
+
+@media (max-width: 1200px) {
+  .faqCon > div {
+    width: 60%;
+  }
+}
+
+@media (max-width: 1000px) {
+  .faqCon > div {
+    width: 70%;
+  }
+}
+
+@media (max-width: 900px) {
+  .faqCon > div {
+    width: 80%;
+  }
+}
+
+@media (max-width: 600px) {
+  .faqCon > div {
+    width: 90%;
+  }
+  .grid {
+    height: 80vh;
+  }
+}
+
+@media (max-width: 480px) {
+  .faqCon > div {
+    width: 95%;
+  }
+  .grid {
+    height: 90vh;
+  }
+}
