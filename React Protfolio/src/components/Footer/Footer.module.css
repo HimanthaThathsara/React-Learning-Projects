@@ -1,0 +1,192 @@
+.footer {
+  padding: 3rem 7% 2rem;
+  font-family: "Goudy Bookletter 1911", serif;
+  background: #0e142f;
+  background: radial-gradient(circle, rgb(114 20 255 / 25%) 0%, #0e142f 100%);
+  position: relative;
+  z-index: 10;
+}
+
+/* Top area: contains left block (logo + CTA) and right block (nav columns) */
+.topArea {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  position: relative;
+  z-index: 50;
+}
+
+/* ===== Left Block (Logo + CTA) ===== */
+.leftBlock {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  flex: 1;
+  min-width: 220px;
+  margin-bottom: 1.5rem;
+}
+
+/* Logo area */
+.logo {
+  height: 1.6rem;
+}
+
+.logo img {
+  height: 100%;
+}
+
+/* Replace this with an <img> if you have an actual logo */
+.logoIcon {
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(135deg, #bb75ff, #7432ff);
+  border-radius: 8px;
+}
+.logoText {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+/* CTA card styling */
+.ctaCard {
+  padding: 1.25rem;
+  max-width: 300px;
+
+  background: #0e1330;
+  border: 1px solid #282d45;
+  border-radius: 10px;
+}
+
+.ctaCard p {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+.ctaCard button {
+  background-color: #a365ff;
+  border: none;
+  color: #fff;
+  font-size: 1rem;
+  padding: 9px 10px;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  width: 100%;
+}
+.ctaCard button:hover {
+  background-color: #a365ff;
+}
+
+/* ===== Right Block (Navigation columns) ===== */
+.navColumns {
+  display: flex;
+  flex: 2;
+  justify-content: flex-end;
+  gap: 8rem; /* space between columns */
+  min-width: 300px;
+  margin-bottom: 1.5rem;
+}
+
+/* Each column: title + list */
+.navColumns > div h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+.navColumns > div ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.navColumns > div li {
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+  /* transition: color 0.2s ease; */
+}
+.navColumns > div li:hover h5 {
+  /* text-decoration: underline; */
+  color: white !important;
+}
+
+.navColumns > div li h5 {
+  font-weight: 200;
+  color: #ffffff;
+}
+
+/* Divider line */
+.divider {
+  height: 1px;
+  background: rgba(255, 255, 255, 0.15);
+  margin-bottom: 1rem;
+}
+
+/* Bottom bar: copyright + social icon */
+.bottomBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #ccc;
+}
+
+.socialLink {
+  border-radius: 7px;
+  background: none;
+  height: 1.7rem;
+  width: 1.7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.socialLink svg {
+  height: 1.2rem;
+  fill: white;
+}
+
+/* For smaller screens: stack columns and center them */
+@media (max-width: 900px) {
+  .navColumns {
+    gap: 5rem;
+    min-width: 200px;
+  }
+}
+@media (max-width: 768px) {
+  .topArea {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .navColumns {
+    justify-content: space-between;
+    align-items: start;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    gap: 0;
+    width: 100%;
+    min-width: 100px;
+  }
+  .leftBlock {
+    width: 100%;
+  }
+  .ctaCard {
+    max-width: 100%;
+  }
+  .divider {
+    margin-top: 1rem;
+  }
+  .bottomBar {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .bottomBar {
+    flex-direction: column;
+    justify-content: center;
+    gap: 0;
+  }
+}
