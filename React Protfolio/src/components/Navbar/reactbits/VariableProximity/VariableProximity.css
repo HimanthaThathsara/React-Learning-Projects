@@ -1,0 +1,36 @@
+.variable-proximity {
+  font-family: "Goudy Bookletter 1911", serif;
+  font-weight: 800;
+  font-size: 70px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 1200px) {
+  .variable-proximity {
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .variable-proximity {
+    font-size: 50px;
+  }
+}
+
+@media (max-width: 600px) {
+  .variable-proximity {
+    font-size: 40px;
+    line-height: 1rem;
+  }
+}
