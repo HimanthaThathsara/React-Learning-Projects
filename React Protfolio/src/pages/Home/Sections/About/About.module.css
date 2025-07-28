@@ -1,0 +1,180 @@
+.about {
+  /* Dark background, full width */
+  background-color: #010915;
+  color: #ffffff;
+  padding: 4rem 3%;
+  padding-bottom: 2rem;
+  padding-top: 0;
+  box-sizing: border-box;
+}
+
+/* ========== Hero/Top Section ========== */
+.topSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.heroText h1 {
+  font-size: 2.2rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.heroText span {
+  color: #a365ff;
+}
+
+.aboutUs {
+  max-width: 400px;
+}
+
+.aboutUs h2 {
+  color: #a365ff;
+  margin-bottom: 0.5rem;
+}
+
+/* ========== Middle/Features Section ========== */
+.featuresSection {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+/* Left column: Projects info */
+.projects {
+  flex: 1;
+  min-width: 280px;
+  width: 100%;
+  position: relative;
+}
+
+.card_inner_img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  object-fit: cover;
+  color: transparent;
+  border-radius: 15px;
+}
+
+.projectsInner {
+  padding: 2rem 5%;
+  position: relative;
+  z-index: 2;
+}
+
+.projectsInner h2 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.projectsInner p {
+  margin-bottom: 1rem;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.projectsInner button {
+  border: none;
+  background: #f7fdff;
+  box-shadow: inset -1px -7px 17px #c9a2ff;
+  border-radius: 12px;
+  padding: 8px 13px;
+  cursor: pointer;
+}
+
+.projectsInner button h5 {
+  font-weight: 600;
+}
+
+/* Right column: Feature boxes */
+.featuresList {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  min-width: 280px;
+}
+
+.featureBox {
+  background-color: #1b1b1b;
+  padding: 1.5rem 1rem;
+  border: 1px solid transparent;
+  background: linear-gradient(306.77deg, #060b21 75.7%, #0e142f 97.33%);
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: 300;
+  transition-property: all;
+  transition-duration: 0.3s;
+}
+
+.featureBox:hover {
+  background: linear-gradient(306.77deg, #060b21 75.7%, #0e142f 97.33%);
+  box-shadow: inset 0px 0px 30px 2px rgba(170, 46, 255, 0.29);
+  border: 1px solid #e3c4f826;
+}
+
+.activeFeatureBox {
+  background: linear-gradient(306.77deg, #060b21 75.7%, #0e142f 97.33%);
+  box-shadow: inset 0px 0px 30px 2px rgba(170, 46, 255, 0.29);
+  border: 1px solid #e3c4f826;
+}
+
+.featureBox h3 {
+  margin-bottom: 0.5rem;
+}
+
+/* ========== Responsive ========== */
+@media (max-width: 1000px) {
+  .heroText h1 {
+    font-size: 1.8rem;
+  }
+  .aboutUs h2 {
+    font-size: 1.5rem;
+  }
+  .aboutUs p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 768px) {
+  .topSection {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .aboutUs {
+    max-width: none;
+  }
+
+  .featuresSection {
+    flex-direction: column;
+  }
+
+  .featuresList {
+    grid-template-columns: 1fr; /* Keep single column on mobile */
+  }
+
+  .projects {
+    flex: 1 1 auto;
+    height: 18rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .heroText h1,
+  .projectsInner h2 {
+    font-size: 1.6rem;
+  }
+  .about{
+    padding-bottom: 0;
+  }
+}
