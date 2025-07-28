@@ -1,0 +1,134 @@
+.popup {
+  /* background-color: #0e142f; */
+  backdrop-filter: blur(5px);
+  /* margin-left: 265px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 100;
+}
+
+.card {
+  background: #0e142fd4;
+  border: 1px solid #282d45;
+  border-radius: 10px;
+  width: fit-content;
+  text-align: left;
+  position: relative;
+  width: 40rem;
+  padding: 1.5rem 1rem;
+}
+
+.closeBtn {
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2.7rem;
+  width: 2.7rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.closeBtn:hover {
+  background: #282d4594;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  margin-bottom: 20px;
+}
+
+.header h2 {
+  color: #181818;
+}
+
+.title > h2 {
+  font-size: 25px;
+  text-align: center;
+}
+
+.title > h2 span,
+.body a {
+  color: #a365ff; /* highlight color */
+}
+
+.flexEnd {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.body {
+  overflow: hidden;
+  padding: 0rem 2rem;
+}
+
+.body h5 {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.btnCon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.btnCon button {
+  padding: 6px 14px;
+  border: none;
+  background: #ffffff;
+  box-shadow: inset 0px -6px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.btnCon button h5 {
+  font-size: 14px;
+}
+
+@media (max-width: 700px) {
+  .popup {
+    padding: 0 5%;
+  }
+  .card {
+    padding: 1rem;
+  }
+  .body {
+    padding: 0rem 1rem;
+  }
+}
+@media (max-width: 480px) {
+  .header {
+    grid-template-columns: 15% 70% 15%;
+    margin-bottom: 0px;
+  }
+  .title > h2 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .body {
+    padding: 0;
+  }
+  .body h5 {
+    font-size: 13px;
+    font-weight: 400;
+  }
+  .btnCon button {
+    padding: 4px 12px;
+  }
+  .btnCon button h5 {
+    font-size: 13px;
+  }
+}
