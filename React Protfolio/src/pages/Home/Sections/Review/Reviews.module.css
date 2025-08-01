@@ -1,0 +1,198 @@
+/* Outer hero container */
+.hero {
+  width: 100%;
+  padding: 4rem 7%;
+  padding-bottom: 2rem;
+  box-sizing: border-box;
+  /* background-color: #0e0e0e; */
+  color: #fff;
+  text-align: center;
+}
+
+.container {
+  /* max-width: 1200px; */
+  margin: 0 auto;
+}
+
+.container h2 {
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+.container h2 span {
+  color: #a365ff; /* highlight color */
+}
+
+.container > p {
+  max-width: 650px;
+  margin: 0.5rem auto 5rem;
+  color: #ccc;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+/* Carousel row: 3 cards side by side */
+.carousel {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 4rem;
+  margin-bottom: 4rem;
+}
+
+/* Each card */
+.card {
+  border-radius: 10px;
+  position: relative;
+  width: 100%;
+  max-width: 320px;
+  min-height: 210px;
+  padding: 1.5rem;
+  /* box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); */
+  text-align: left;
+  /* overflow: hidden; */
+}
+
+/* Gradient background behind the card content */
+.card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 12px;
+  z-index: -1;
+  background: linear-gradient(135deg, #5e20ff, #93f);
+  opacity: 0.2; /* subtle overlay */
+}
+
+/* Profile (avatar + name + company) */
+.profile {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-right: 0.8rem;
+}
+
+.profile h4 {
+  font-size: 1rem;
+  margin-bottom: 2px;
+  color: #fff;
+}
+
+.profile span {
+  font-size: 0.85rem;
+  color: #ccc;
+}
+
+/* Quotation mark in the top right */
+.quoteMark {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 3rem;
+  color: rgba(255, 255, 255, 0.05);
+}
+
+/* Review text */
+.reviewText {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  color: #ddd;
+  line-height: 1.6;
+}
+
+.cardBottom {
+  /* border: 1px solid white; */
+  height: 40%;
+  /* width: 100%; */
+  position: absolute;
+  bottom: -27px;
+  left: -22px;
+  right: -22px;
+  z-index: -1;
+  border: 1px solid #282d45;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.cardBottom img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  object-fit: cover;
+  color: transparent;
+}
+
+/* Navigation buttons */
+.btnWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.btnWrapper button {
+  background: #0e142f;
+  border: 1px solid #282d45;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 3px 7px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s ease;
+}
+
+.btnWrapper button:hover {
+  background-color: #151e47;
+}
+
+/* Responsive: stack the 3 cards on smaller screens */
+@media (max-width: 1000px) {
+  .container h1 {
+    font-size: 1.8rem;
+  }
+  .container h2 {
+    font-size: 1.8rem;
+  }
+  .container p {
+    font-size: 14px;
+  }
+  .card {
+    min-height: 150px;
+  }
+}
+
+@media (max-width: 900px) {
+  .carousel {
+    flex-direction: column;
+    align-items: center;
+  }
+  .card {
+    max-width: 600px;
+    margin: 0.5rem 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero {
+    padding-bottom: 0;
+  }
+  .container h2 {
+    font-size: 1.5rem;
+  }
+}
