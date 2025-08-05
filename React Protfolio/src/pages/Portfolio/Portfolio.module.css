@@ -1,0 +1,250 @@
+.hero {
+  width: 100%;
+  padding: 4rem 7%;
+  padding-top: 7rem;
+  min-height: 100vh;
+  background-color: #010915;
+  opacity: 1;
+  background-image: radial-gradient(#ffffff21 0.5px, #010915 0.5px);
+  background-size: 10px 10px;
+  /* background-color: #e5e5f7; */
+  opacity: 1;
+  /* background-image: radial-gradient(#ffffff21 0.5px, transparent 0.5px), radial-gradient(#ffffff3b 0.5px, #010915 0.5px); */
+  background-size: 20px 20px;
+  background-position: 0 0, 10px 10px;
+}
+
+.hero > h2 {
+  font-size: 2rem;
+  margin-bottom: 1.7rem;
+  text-align: center;
+}
+
+.hero > h2 span {
+  color: #a365ff; /* highlight color */
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  min-height: 70vh;
+}
+
+.grid > div {
+  /* border: 1px solid white; */
+}
+
+.gridLeft {
+}
+
+.gridLeft > div {
+  width: 90%;
+}
+
+.gridRight {
+}
+
+.cardsWrapper {
+  display: grid;
+  grid-template-columns: repeat(3, calc((100% - 3%) / 3));
+  grid-template-rows: max-content;
+  gap: 1.5%;
+  row-gap: 3%;
+  align-items: start;
+  min-height: 68vh;
+}
+
+.card {
+  background: #0e142f;
+  border: 1px solid #282d45;
+  border-radius: 12px;
+  padding: 10px;
+  position: relative;
+  overflow: hidden;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.card h4 {
+  text-align: start;
+}
+
+.card_img {
+  width: 100%;
+  height: 12vw;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card_inner_img {
+  transition-property: all;
+  transition-duration: 0.3s;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  /* object-fit: cover; */
+  color: transparent;
+  border-radius: 10px;
+}
+
+.card button {
+  background: none;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  /* background: #ff950036;
+  border: 1px solid #ff950036;
+  color: #ff9500; */
+  padding: 1px 6px;
+  border-radius: 6px;
+}
+
+.card button h5 {
+  font-size: 12px;
+  color: white;
+}
+
+.pagFooter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 6px;
+  margin-top: 1rem;
+}
+
+.pagFooter h5 {
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.pagFooter li button {
+  font-family: "Goudy Bookletter 1911", serif;
+  font-weight: 700;
+  font-size: 13px;
+  min-width: 20px;
+  height: 23px;
+  padding: 0 3px;
+  margin: 0 1px;
+}
+
+.Loader {
+  background: #0e142f;
+  border: 1px solid #282d45;
+  border-radius: 12px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.clearBtn {
+  border: none;
+  background: none;
+  padding: 2px 8px;
+  border: none;
+  background: #ffffff;
+  box-shadow: inset 0px -6px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  cursor: pointer;
+  transition-property: all;
+  transition-duration: 0.2s;
+}
+
+.clearBtn h5 {
+  color: #010915;
+  font-size: 12px;
+}
+
+.clearBtn:hover {
+  background: #ededed;
+}
+
+.flexBetween10 {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  gap: 10px;
+}
+
+@media (max-width: 1550px) {
+  .hero {
+    padding-top: 6rem;
+  }
+}
+
+@media (max-width: 1200px) {
+  .hero {
+    padding: 4.5rem 5%;
+  }
+}
+
+@media (max-width: 1000px) {
+  .hero > h2 {
+    font-size: 1.8rem;
+  }
+  .grid {
+    display: flex;
+    flex-direction: column;
+  }
+  .dropdownCon {
+    display: flex;
+    align-items: start;
+    gap: 1rem;
+  }
+  .gridLeft > div {
+    width: 100%;
+  }
+  .card_img {
+    height: 16vw;
+  }
+}
+
+@media (max-width: 768px) {
+  .cardsWrapper {
+    grid-template-columns: repeat(2, calc((100% - 1.5%) / 2));
+    gap: 1.5%;
+    margin-top: 10px;
+  }
+  .card_img {
+    height: 23vw;
+  }
+  .card h4 {
+    font-size: 15px;
+  }
+  .hero > h2 {
+    font-size: 1.5rem;
+  }
+  .pagFooter {
+    margin-top: 2rem;
+  }
+}
+@media (max-width: 480px) {
+  .hero {
+    padding: 4rem 5%;
+  }
+  .cardsWrapper {
+    grid-template-columns: repeat(1, calc((100%) / 1));
+    row-gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .card_img {
+    height: 45vw;
+  }
+  .pagFooter {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .hero > h2 {
+    font-size: 1.5rem;
+  }
+}
