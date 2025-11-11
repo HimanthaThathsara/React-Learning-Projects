@@ -11,13 +11,12 @@
 </pre>
 </div>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>A collection of small React projects, component examples, and portfolio demos used for learning and experimentation.</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/HimanthaThathsara/React-Learning-Projects?style=default&logo=opensourceinitiative&logoColor=white&color=ffffff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/HimanthaThathsara/React-Learning-Projects?style=default&logo=git&logoColor=white&color=ffffff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/HimanthaThathsara/React-Learning-Projects?style=default&color=ffffff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/HimanthaThathsara/React-Learning-Projects?style=default&color=ffffff" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
@@ -39,13 +38,18 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>This repository is a learning collection of React-based projects and components. It contains multiple standalone example apps and UI component implementations created while learning React and front-end development. The code demonstrates practical use of React (JSX), component composition, styling with CSS, and simple build/run configurations. Notable directories include examples such as a portfolio project, a crypto API UI example, clones of landing pages, and single-page demos. The intent is educational: to experiment, iterate, and showcase small real-world UI patterns.</code>
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+<code>
+- Multiple small React applications and example projects for learning and demonstration.
+- Reusable UI components and layouts (JSX + CSS) that illustrate component composition and responsive styling.
+- Example projects visible in the repository (for example: portfolio apps, a crypto API UI example, and landing-page clones).
+- Simple local development flow using npm for installing dependencies and running projects.
+- Organized examples that are easy to fork, inspect, and adapt for practice or portfolio work.</code>
 
 ---
 
