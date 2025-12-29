@@ -1,0 +1,1573 @@
+.Enterprise_11_1907 {
+  background: var(--Neutral-100, #fff);
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.Header_11_1558 {
+  background: var(--Neutral-100, #fff);
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 24px;
+  display: flex;
+}
+.Frame_1_4_209 {
+  align-items: center;
+  gap: 110px;
+  display: flex;
+}
+.Logo_4_200 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_4_76 {
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Frame_1_4_70 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Research_4_11 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_67 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_8_4_153 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Api_4_154 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_155 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_9_4_158 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.ChatGpt_4_159 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_160 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_6_4_143 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Safety_4_144 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_145 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_7_4_148 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Company_4_149 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_150 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_2_4_92 {
+  justify-content: flex-end;
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Search_4_94 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_4_96 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Login_4_97 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_98 {
+  width: 18px;
+  height: 18px;
+}
+.Button_4_174 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Button_4_118 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_119 {
+  width: 18px;
+  height: 18px;
+}
+.Section_01_11_1557 {
+  flex-direction: column;
+  align-items: center;
+  gap: 48px;
+  width: 100%;
+  padding: 108px 0 60px;
+  display: flex;
+}
+.Frame_2_11_1555 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 48px;
+  width: 894px;
+  display: flex;
+}
+.Frame_2_11_1537 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.ChatGptEnterprise_11_1535 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.EnterpriseGradeSecurityPrivacyAndTheMostPowerfulVersionOfChatGptYet_11_1536 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_11_1554 {
+  align-items: center;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Button_11_1538 {
+  border: 1px solid var(--Neutral-400, #000);
+  background: var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Button_4_169 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ReadLaunchAnnouncement_11_1549 {
+  color: var(--Neutral-400, #000);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Image_11_1556 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / contain no-repeat;
+  height: 167px;
+}
+.Section_02_11_1682 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  padding: 0 24px;
+  display: flex;
+}
+.Frame_2_11_1633 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 0 96px;
+  display: flex;
+}
+.SecurityPrivacy_11_1632 {
+  color: var(--Neutral-400, #000);
+  width: 205px;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_11_1630 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 50px;
+  width: 665px;
+  display: flex;
+}
+.Frame_2_11_1627 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.ProtectYourCompanyData_11_1609 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_11_1625 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.Frame_6_11_1610 {
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Check_11_1611 {
+  width: 18px;
+  height: 18px;
+}
+.CustomerPromptsOrDataAreNotUsedForTrainingModels_11_1612 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_7_11_1615 {
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Check_11_1616 {
+  width: 18px;
+  height: 18px;
+}
+.DataEncryptionAtRestAes_256AndInTransitTls_1_2_11_1617 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_8_11_1620 {
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Check_11_1621 {
+  width: 18px;
+  height: 18px;
+}
+.Soc_2Compliant_11_1622 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ReadOurPrivacyCommitments_11_1628 {
+  color: var(--Neutral-400, #000);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Image_11_1629 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 450px;
+}
+.HalfOfAllZapierEmployeesAreNowLeveragingAiInTheirWorkChatGptEnterpriseLetsUsWorkWithSensitiveDataDueToTheEnhancedSecurityAndPrivacyControls_11_1631 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_11_1658 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 0 96px;
+  display: flex;
+}
+.DeployWithEase_11_1659 {
+  color: var(--Neutral-400, #000);
+  width: 205px;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_11_1660 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 50px;
+  width: 665px;
+  display: flex;
+}
+.Frame_2_11_1661 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.ScalableDeploymentTools_11_1662 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_11_1663 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.Frame_6_11_1664 {
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Check_11_1665 {
+  width: 18px;
+  height: 18px;
+}
+.DedicatedAdminConsoleAndEasyBulkMemberManagement_11_1666 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_7_11_1667 {
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Check_11_1668 {
+  width: 18px;
+  height: 18px;
+}
+.SsoAndDomainVerification_11_1669 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_8_11_1670 {
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Check_11_1671 {
+  width: 18px;
+  height: 18px;
+}
+.AnalyticsDashboardToUnderstandUsage_11_1672 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Image_11_1674 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 450px;
+}
+.ChatGptEnterpriseAllowsUsToContinueToBeAPioneerInAiWhileHelpingOurPeopleAndClientsBenefitFromProductivityAndNewGrowthOpportunitiesAssociatedWithAiInAResponsibleWay_11_1675 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_4_11_1911 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 0 96px;
+  display: flex;
+}
+.MoveFaster_11_1912 {
+  color: var(--Neutral-400, #000);
+  width: 205px;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_11_1913 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 50px;
+  width: 665px;
+  display: flex;
+}
+.Frame_2_11_1914 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.FastUncappedGpt_4_11_1915 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_11_1916 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.Frame_6_11_1917 {
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Check_11_1918 {
+  width: 18px;
+  height: 18px;
+}
+.UnlimitedHighSpeedAccessToGpt_4AndAdvancedDataAnalysis_11_1919 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_7_11_1920 {
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Check_11_1921 {
+  width: 18px;
+  height: 18px;
+}
+.kTokenContextWindowsFor_4XLongerInputsAndMemory_11_1922 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_8_11_1923 {
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Check_11_1924 {
+  width: 18px;
+  height: 18px;
+}
+.ShareableChatTemplatesForYourCompanyToCollaborate_11_1925 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Image_11_1926 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 450px;
+}
+.xLongerInputsConversationswith_32kContextWindows_2xSpeedGainsWithGpt_4Access_11_1927 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Section_03_11_1683 {
+  background: var(--Color-combo-Black-olive, #353a2f);
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_1_11_1684 {
+  border-top: 1px solid var(--Color-combo-Alice-blue, #e5edf5);
+  box-sizing: border-box;
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.OfFortune_500CompaniesAlreadyHaveEmployeesUsingChatGptForWork_11_1685 {
+  color: var(--Color-combo-Alice-blue, #e5edf5);
+  letter-spacing: -0.55px;
+  font-family: Test Signifier;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 60.5px;
+  display: inline-block;
+}
+.PercentageOfFortune_500CompaniesWithRegisteredChatGptConsumerAccountsAsDeterminedByAnalyzingAccountsAssociatedWithCorporateEmailDomains_11_1688 {
+  color: var(--Color-combo-Alice-blue, #e5edf5);
+  width: 485px;
+  font-family: Test Söhne;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15.6px;
+  display: inline-block;
+}
+.Section_04_11_1689 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_3_11_1690 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.CompareChatGptPlans_11_1691 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_11_1692 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1693 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 48px;
+  width: 100%;
+  padding: 21px;
+  display: flex;
+}
+.Frame_2_11_1694 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1756 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Free_11_1695 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.PerPersonMonth_11_1698 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Button_11_1699 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Frame_1_11_1700 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1755 {
+  border-bottom: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  height: 32px;
+  padding-bottom: 8px;
+  display: flex;
+}
+.Frame_1_11_1701 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1702 {
+  width: 18px;
+  height: 18px;
+}
+.Gpt_3_5_11_1703 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_11_1704 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1705 {
+  width: 18px;
+  height: 18px;
+}
+.RegularModelUpdates_11_1706 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_5_11_1757 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 48px;
+  width: 100%;
+  padding: 21px;
+  display: flex;
+}
+.Frame_2_11_1758 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1759 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Plus_11_1760 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.PerPersonMonth_11_1761 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Button_11_1762 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Frame_1_11_1763 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1764 {
+  border-bottom: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  padding-bottom: 8px;
+  display: flex;
+}
+.EverythingInFreeAnd_11_1765 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_11_1766 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1767 {
+  width: 18px;
+  height: 18px;
+}
+.Gpt_4_11_1768 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_11_1769 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1770 {
+  width: 18px;
+  height: 18px;
+}
+.AdvancedDataAnalysis_11_1771 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_11_1772 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1773 {
+  width: 18px;
+  height: 18px;
+}
+.Plugins_11_1774 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_4_11_1943 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1944 {
+  width: 18px;
+  height: 18px;
+}
+.EarlyAccessToBetaFeatures_11_1945 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_7_11_1949 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 48px;
+  width: 100%;
+  padding: 21px;
+  display: flex;
+}
+.Frame_2_11_1950 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1951 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Enterprise_11_1952 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.PerPersonMonth_11_1953 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Button_11_1954 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Frame_1_11_1955 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  padding-bottom: 60px;
+  display: flex;
+}
+.Frame_2_11_1956 {
+  border-bottom: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  padding-bottom: 8px;
+  display: flex;
+}
+.EverythingInPlusAnd_11_1957 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_11_1958 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1959 {
+  width: 18px;
+  height: 18px;
+}
+.UnlimitedHighSpeedGpt_4_11_1960 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_11_1961 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1962 {
+  width: 18px;
+  height: 18px;
+}
+.LongerInputsWith_32kTokenContext_11_1963 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_11_1964 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1965 {
+  width: 18px;
+  height: 18px;
+}
+.UnlimitedAdvancedDataAnalysis_11_1966 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_4_11_1967 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1968 {
+  width: 18px;
+  height: 18px;
+}
+.InternallyShareableChatTemplates_11_1969 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_5_11_1985 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1986 {
+  width: 18px;
+  height: 18px;
+}
+.DedicatedAdminConsole_11_1987 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_6_11_1990 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1991 {
+  width: 18px;
+  height: 18px;
+}
+.SsoDomainVerificationAndAnalytics_11_1992 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_7_11_1995 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1996 {
+  width: 18px;
+  height: 18px;
+}
+.ApiCreditsToBuildYourOwnSolutions_11_1997 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Section_05_11_1815 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 97px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_14_11_1816 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.GetStartedWithChatGptEnterprise_11_1817 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.ButtonLarge_11_1818 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 5.6px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 29px 16px 31px;
+  display: flex;
+}
+.Button_5_235 {
+  color: var(--Neutral-400, #000);
+  text-align: center;
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Footer_11_1820 {
+  background: var(--Neutral-400, #000);
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+.Frame_1_5_290 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 256px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_1_5_261 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_16_5_271 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 435px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+}
+.Logo_5_262 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_5_248 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Research_5_245 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_246,
+.Index_5_247,
+.Gpt_4_5_298,
+.DallE_3_5_299 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_5_249 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Api_5_250 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_251,
+.DataPrivacy_5_252,
+.Pricing_5_303 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_310 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.Docs_5_304 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_306 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_3_5_253 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ChatGpt_5_254 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_255,
+.Enterprise_5_256 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_312 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.TryChatGpt_5_313 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_314 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_4_5_257 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Company_5_258 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.About_5_259,
+.Blog_5_260,
+.Careers_5_320,
+.Charter_5_321,
+.Security_5_322,
+.CustomerStories_5_323,
+.Safety_5_325 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_289 {
+  border-top: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 9px 0;
+  display: flex;
+}
+.Frame_2_5_272 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 435px;
+  display: flex;
+}
+.OpenAi_2015_2023_5_273 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.TermsPolicies_5_274,
+.PrivacyPolicy_5_275,
+.BrandGuidelines_5_296 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_288 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 53px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_278 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Twitter_5_276,
+.Youtube_5_277,
+.GitHub_5_279,
+.SoundCloud_5_280,
+.LinkedIn_5_281 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_5_283 {
+  align-items: center;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.BackToTop_5_284 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUp_5_285 {
+  width: 18px;
+  height: 18px;
+}
+.Group_1_7_1123 {
+  height: 520px;
+}

@@ -1,0 +1,1666 @@
+.ResearchOverview_5_482 {
+  background: var(--Neutral-100, #fff);
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.Header_5_419 {
+  background: var(--Color-combo-Papaya-whip, #fff1d6);
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 24px;
+  display: flex;
+}
+.Frame_1_4_209 {
+  align-items: center;
+  gap: 110px;
+  display: flex;
+}
+.Logo_4_200 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_4_76 {
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Frame_1_4_70 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Research_4_11 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_67 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_8_4_153 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Api_4_154 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_155 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_9_4_158 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.ChatGpt_4_159 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_160 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_6_4_143 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Safety_4_144 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_145 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_7_4_148 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Company_4_149 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_150 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_2_4_92 {
+  justify-content: flex-end;
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Search_4_94 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_4_96 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Login_4_97 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_98 {
+  width: 18px;
+  height: 18px;
+}
+.Button_4_174 {
+  border: 1px solid var(--Color-combo-Blue, #00f);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Button_4_118 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_119 {
+  width: 18px;
+  height: 18px;
+}
+.Section_01_5_418 {
+  background: var(--Color-combo-Papaya-whip, #fff1d6);
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 96px;
+  width: 100%;
+  padding: 180px 24px 48px;
+  display: flex;
+}
+.Frame_1_5_471 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.PioneeringResearchOnThePathToAgi_5_407 {
+  color: var(--Color-combo-Blue, #00f);
+  letter-spacing: -1.46px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 73px;
+  display: inline-block;
+}
+.Frame_1_5_417 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.WeBelieveOurResearchWillEventuallyLeadToArtificialGeneralIntelligenceASystemThatCanSolveHumanLevelProblemsBuildingSafeAndBeneficialAgiIsOurMission_5_408 {
+  color: var(--Color-combo-Blue, #00f);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Frame_1_5_416 {
+  align-items: center;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Button_5_409 {
+  border: 1px solid var(--Color-combo-Blue, #00f);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.LearnAboutSafety_5_415 {
+  color: var(--Color-combo-Blue, #00f);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Image_5_470 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 728px;
+}
+.Section_02_5_475 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_1_5_476 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.SafelyAligningPowerfulAiSystemsIsOneOfTheMostImportantUnsolvedProblemsForOurMissionTechniquesLikeLearningFromHumanFeedbackAreHelpingUsGetCloserAndWeAreActivelyResearchingNewTechniquesToHelpUsFillTheGaps_5_477 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.55px;
+  font-family: Test Signifier;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 60.5px;
+  display: inline-block;
+}
+.Frame_1_5_478 {
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  display: flex;
+}
+.JoshAchiam_5_479 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ResearcherAtOpenAi_5_480 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Section_03_5_498 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  padding: 0 24px 120px;
+  display: flex;
+}
+.Frame_3_5_483 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 0 97px;
+  display: flex;
+}
+.FocusAreas_5_484 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.WeBuildOurGenerativeModelsUsingATechnologyCalledDeepLearningWhichLeveragesLargeAmountsOfDataToTrainAnAiSystemToPerformATaskText_5_486 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Frame_4_5_491 {
+  border-top: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 0 60px;
+  display: flex;
+}
+.Text_5_492 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.OurTextModelsAreAdvancedLanguageProcessingToolsThatCanGenerateClassifyAndSummarizeTextWithHighLevelsOfCoherenceAndAccuracy_5_494 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_5_499 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_500 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_501 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_502 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.AligningLanguageModelsToFollowInstructions_5_503 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.WeVeTrainedLanguageModelsThatAreMuchBetterAtFollowingUserIntentionsThanGpt_3_5_504 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_13_5_759 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_760 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_761 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.SummarizingBooksWithHumanFeedback_5_762 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.WeVeTrainedAModelToSummarizeEntireBooksWithHumanFeedback_5_763 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_14_5_764 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_765 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_766 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.LanguageModelsAreFewShotLearners_5_767 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.WeTrainedGpt_3AnAutoregressiveLanguageModelWith_175BillionParameters_5_768 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Section_04_5_520 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 1400px;
+  padding: 0 24px 120px;
+  display: flex;
+}
+.Frame_4_5_526 {
+  border-top: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 0 60px;
+  display: flex;
+}
+.Image_5_527 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.OurResearchOnGenerativeModelingForImagesHasLedToRepresentationModelsLikeClipWhichMakesAMapBetweenTextAndImagesThatAnAiCanReadAndDallEAToolForCreatingVividImagesFromTextDescriptions_5_528 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_5_5_794 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_795 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_796 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_797 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.HierarchicalTextConditionalImageGenerationWithClipLatents_5_798 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.WeShowThatExplicitlyGeneratingImageRepresentationsImprovesImageDiversityWithMinimalLossInPhotorealismAndCaptionSimilarity_5_799 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_13_5_800 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_801 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_802 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.DallECreatingImagesFromText_5_803 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.WeVeTrainedANeuralNetworkCalledDallEThatCreatesImagesFromTextCaptionsForAWideRangeOfConceptsExpressibleInNaturalLanguage_5_804 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_14_5_805 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_806 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_807 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ClipConnectingTextAndImages_5_808 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.WeReIntroducingANeuralNetworkCalledClipWhichEfficientlyLearnsVisualConceptsFromNaturalLanguageSupervision_5_809 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Section_05_5_550 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 1400px;
+  padding: 0 24px 120px;
+  display: flex;
+}
+.Frame_4_5_551 {
+  border-top: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 0 60px;
+  display: flex;
+}
+.Audio_5_552 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.OurResearchOnApplyingAiToAudioProcessingAndAudioGenerationHasLedToDevelopmentsInAutomaticSpeechRecognitionAndOriginalMusicalCompositions_5_553 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_5_5_812 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_813 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_814 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_815 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.IntroducingWhisper_5_816 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.WeVeTrainedAndAreOpenSourcingANeuralNetThatApproachesHumanLevelRobustnessAndAccuracyOnEnglishSpeechRecognition_5_817 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_13_5_818 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_819 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_820 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Jukebox_5_821 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.WeReIntroducingJukeboxANeuralNetThatGeneratesMusicAsRawAudioInAVarietyOfGenresAndArtistStyles_5_822 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_14_5_823 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_824 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_825 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.MuseNet_5_826 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.WeVeCreatedMuseNetADeepNeuralNetworkThatCanGenerate_4MinuteMusicalCompositionsWith_10DifferentInstruments_5_827 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Image_5_575 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 1008px;
+}
+.Section_06_5_576 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  width: 100%;
+  padding: 104px 24px 110px;
+  display: flex;
+}
+.Frame_1_5_577 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.PastHighlights_5_578 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_5_579 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.OurCurrentAiResearchBuildsUponAWealthOfPreviousProjectsAndAdvances_5_580 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.ViewAllResearch_5_581 {
+  color: var(--Neutral-400, #000);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_5_5_830 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_831 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_832 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_833 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ImageGpt_5_834 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Jun_17_2020_5_835 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_13_5_836 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_837 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_838 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.SolvingRubikSCubeWithARobotHand_5_839 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Oct_15_2019_5_840 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_14_5_841 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_842 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_1_5_843 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.EmergentToolUseFromMultiAgentInteraction_5_844 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Sep_17_2019_5_845 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Section_07_5_603 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 97px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_1_5_604 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.FeaturedRoles_5_605 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_5_606 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.WeAreConstantlySeekingTalentedIndividualsToJoinOurTeamExploreFeaturedRolesOrViewAllOpenRoles_5_607 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.ViewAllCareers_5_608 {
+  color: var(--Neutral-400, #000);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_1_5_651 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_639 {
+  border-top: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 26px 0;
+  display: flex;
+}
+.Frame_2_5_630 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.EngineeringManagerFineTuningApi_5_631 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.SanFranciscoCaliforniaUnitedStatesAppliedAiEngineering_5_632 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_638 {
+  align-items: center;
+  gap: 4px;
+  display: flex;
+}
+.ApplyNow_5_633 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.ArrowUpRight_5_634 {
+  width: 24px;
+  height: 24px;
+}
+.Frame_13_5_641 {
+  border-top: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 26px 0;
+  display: flex;
+}
+.Frame_2_5_642 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.EngineeringManagerDallE_5_643 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.SanFranciscoCaliforniaUnitedStatesAppliedAi_5_644 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_645 {
+  align-items: center;
+  gap: 4px;
+  display: flex;
+}
+.ApplyNow_5_646 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.ArrowUpRight_5_647 {
+  width: 24px;
+  height: 24px;
+}
+.Frame_14_5_652 {
+  border-top: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 26px 0;
+  display: flex;
+}
+.Frame_2_5_653 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.EngineeringManagerAiInferenceSystems_5_654 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.SanFranciscoCaliforniaUnitedStatesAppliedAiEngineering_5_655 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_656 {
+  align-items: center;
+  gap: 4px;
+  display: flex;
+}
+.ApplyNow_5_657 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.ArrowUpRight_5_658 {
+  width: 24px;
+  height: 24px;
+}
+.Frame_15_5_662 {
+  border-top: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 26px 0;
+  display: flex;
+}
+.Frame_2_5_663 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.DlHwSwCodesignEngineer_5_664 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.SanFranciscoCaliforniaUnitedStatesEngineering_5_665 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_666 {
+  align-items: center;
+  gap: 4px;
+  display: flex;
+}
+.ApplyNow_5_667 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.ArrowUpRight_5_668 {
+  width: 24px;
+  height: 24px;
+}
+.Frame_16_5_672 {
+  border-top: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 26px 0;
+  display: flex;
+}
+.Frame_2_5_673 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.DistributedSystemsMlEngineer_5_674 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.SanFranciscoCaliforniaUnitedStatesPlatform_5_675 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_676 {
+  align-items: center;
+  gap: 4px;
+  display: flex;
+}
+.ApplyNow_5_677 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.ArrowUpRight_5_678 {
+  width: 24px;
+  height: 24px;
+}
+.Section_08_5_682 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 97px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_14_5_683 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.ExploreAllResearch_5_684 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -1.46px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 80.3px;
+  display: inline-block;
+}
+.ButtonLarge_5_685 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 5.6px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 29px 16px 31px;
+  display: flex;
+}
+.Button_5_235 {
+  color: var(--Neutral-400, #000);
+  text-align: center;
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Footer_5_687 {
+  background: var(--Color-combo-Papaya-whip, #fff1d6);
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+.Frame_1_5_290 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 256px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_1_5_261 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_16_5_271 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 435px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+}
+.Logo_5_262 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_5_248 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Research_5_245 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_246,
+.Index_5_247,
+.Gpt_4_5_298,
+.DallE_3_5_299 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_5_249 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Api_5_250 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_251,
+.DataPrivacy_5_252,
+.Pricing_5_303 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_310 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.Docs_5_304 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_306 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_3_5_253 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ChatGpt_5_254 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_255,
+.Enterprise_5_256 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_312 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.TryChatGpt_5_313 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_314 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_4_5_257 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Company_5_258 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.About_5_259,
+.Blog_5_260,
+.Careers_5_320,
+.Charter_5_321,
+.Security_5_322,
+.CustomerStories_5_323,
+.Safety_5_325 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_289 {
+  border-top: 1px solid var(--Color-combo-Blue, #00f);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 9px 0;
+  display: flex;
+}
+.Frame_2_5_272 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 435px;
+  display: flex;
+}
+.OpenAi_2015_2023_5_273 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.TermsPolicies_5_274,
+.PrivacyPolicy_5_275,
+.BrandGuidelines_5_296 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_288 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 53px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_278 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Twitter_5_276,
+.Youtube_5_277,
+.GitHub_5_279,
+.SoundCloud_5_280,
+.LinkedIn_5_281 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_5_283 {
+  align-items: center;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.BackToTop_5_284 {
+  color: var(--Color-combo-Blue, #00f);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUp_5_285 {
+  width: 18px;
+  height: 18px;
+}
+.Group_1_7_1123 {
+  height: 520px;
+}

@@ -1,0 +1,1143 @@
+.BlogPost_7_2108 {
+  background: var(--Neutral-100, #fff);
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.Header_7_2057 {
+  background: var(--Color-combo-Tangelo, #ff4500);
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 24px;
+  display: flex;
+}
+.Frame_1_4_209 {
+  align-items: center;
+  gap: 110px;
+  display: flex;
+}
+.Logo_4_200 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_4_76 {
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Frame_1_4_70 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Research_4_11 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_67 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_8_4_153 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Api_4_154 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_155 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_9_4_158 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.ChatGpt_4_159 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_160 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_6_4_143 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Safety_4_144 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_145 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_7_4_148 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Company_4_149 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_150 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_2_4_92 {
+  justify-content: flex-end;
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Search_4_94 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_4_96 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Login_4_97 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_98 {
+  width: 18px;
+  height: 18px;
+}
+.Button_4_174 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Button_4_118 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_119 {
+  width: 18px;
+  height: 18px;
+}
+.Section_01_7_1999 {
+  background: var(--Color-combo-Tangelo, #ff4500);
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  height: 946px;
+  padding: 140px 24px 72px;
+  display: flex;
+  overflow: hidden;
+}
+.Frame_1_7_2000 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_2001 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_7_2025 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Blog_7_2008 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.OpenAiRedTeamingNetwork_7_2002 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -1.46px;
+  font-family: Test Söhne;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 73px;
+  display: inline-block;
+}
+.WeReAnnouncingAnOpenCallForTheOpenAiRedTeamingNetworkAndInviteDomainExpertsInterestedInImprovingTheSafetyOfOpenAiSModelsToJoinOurEfforts_7_2003 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Button_7_2009 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Image_7_2007 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  flex: 1 0 0;
+  height: 734px;
+}
+.Section_02_7_2111 {
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  height: 1562px;
+  padding: 96px 24px;
+  display: flex;
+  overflow: hidden;
+}
+.Frame_2_7_2056 {
+  box-sizing: border-box;
+  border-top: 1px solid #000;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.September_19_202_7_2026 {
+  color: #000;
+  width: 205px;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_7_2043 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 96px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_7_2034 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.Authors_7_2027 {
+  color: #000;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_7_2033 {
+  align-items: center;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.OpenAi_7_2028 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.ArrowDown_7_2029 {
+  width: 18px;
+  height: 18px;
+}
+.WeReAnnouncingAnOpenCallForTheOpenAiRedTeamingNetworkAndInviteDomainExpertsInterestedInImprovingTheSafetyOfOpenAiSModelsToJoinOurEffortsWeAreLookingForExpertsFromVariousFieldsToCollaborateWithUsInRigorouslyEvaluatingAndRedTeamingOurAiModels_7_2036 {
+  color: #000;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_7_2039 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.WhatIsTheOpenAiRedTeamingNetwork_7_2037 {
+  color: #000;
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.RedTeamingIsAnIntegralPartOfOurIterativeDeploymentProcessOverThePastFewYearsOurRedTeamingEffortsHaveGrownFromAFocusOnInternalAdversarialTestingAtOpenAiToWorkingWithACohortOfExternalExpertsToHelpDevelopDomainSpecificTaxonomiesOfRiskAndEvaluatingPossiblyHarmfulCapabilitiesInNewSystemsYouCanReadMoreAboutOurPriorRedTeamingEffortsIncludingOurPastWorkWithExternalExpertsOnModelsSuchAsDallE_2AndGpt_4TodayWeAreLaunchingAMoreFormalEffortToBuildOnTheseEarlierFoundationsAndDeepenAndBroadenOurCollaborationsWithOutsideExpertsInOrderToMakeOurModelsSaferWorkingWithIndividualExpertsResearchInstitutionsAndCivilSocietyOrganizationsIsAnImportantPartOfOurProcessWeSeeThisWorkAsAComplementToExternallySpecifiedGovernancePracticesSuchAsThirdPartyAuditsTheOpenAiRedTeamingNetworkIsACommunityOfTrustedAndExperiencedExpertsThatCanHelpToInformOurRiskAssessmentAndMitigationEffortsMoreBroadlyRatherThanOneOffEngagementsAndSelectionProcessesPriorToMajorModelDeploymentsMembersOfTheNetworkWillBeCalledUponBasedOnTheirExpertiseToHelpRedTeamAtVariousStagesOfTheModelAndProductDevelopmentLifecycleNotEveryMemberWillBeInvolvedWithEachNewModelOrProductAndTimeContributionsWillBeDeterminedWithEachIndividualMemberWhichCouldBeAsFewAs_5_10HoursInOneYearOutsideOfRedTeamingCampaignsCommissionedByOpenAiMembersWillHaveTheOpportunityToEngageWithEachOtherOnGeneralRedTeamingPracticesAndFindingsTheGoalIsToEnableMoreDiverseAndContinuousInputAndMakeRedTeamingAMoreIterativeProcessThisNetworkComplementsOtherCollaborativeAiSafetyOpportunitiesIncludingOurResearcherAccessProgramAndOpenSourceEvaluations_7_2038 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_16_7_2040 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.WhyJoinTheOpenAiRedTeamingNetwork_7_2041 {
+  color: #000;
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.ThisNetworkOffersAUniqueOpportunityToShapeTheDevelopmentOfSaferAiTechnologiesAndPoliciesAndTheImpactAiCanHaveOnTheWayWeLiveWorkAndInteractByBecomingAPartOfThisNetworkYouWillBeAPartOfOurBenchOfSubjectMatterExpertsWhoCanBeCalledUponToAssessOurModelsAndSystemsAtMultipleStagesOfTheirDeployment_7_2042 {
+  color: #000;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_7_2055 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 96px;
+  width: 434px;
+  display: flex;
+}
+.SafetyAlignmentCommunity_7_2035 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_2_7_2054 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  padding-left: 115px;
+  display: flex;
+}
+.Frame_2_7_2047 {
+  align-items: flex-start;
+  gap: 30px;
+  width: 100%;
+  display: flex;
+}
+.A_7_2044 {
+  color: #000;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.TheTermRedTeamingHasBeenUsedToEncompassABroadRangeOfRiskAssessmentMethodsForAiSystemsIncludingQualitativeCapabilityDiscoveryStressTestingOfMitigationsAutomatedRedTeamingUsingLanguageModelsProvidingFeedbackOnTheScaleOfRiskForAParticularVulnerabilityEtcInOrderToReduceConfusionAssociatedWithTheTermRedTeamHelpThoseReadingAboutOurMethodsToBetterContextualizeAndUnderstandThemAndEspeciallyToAvoidFalseAssurancesWeAreWorkingToAdoptClearerTerminologyAsAdvisedInKhlaaf_2023HoweverForSimplicityAndInOrderToUseLanguageConsistentWithThatWeUsedWithOurCollaboratorsWeUseTheTermRedTeam_7_2046 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_16_7_2048 {
+  align-items: flex-start;
+  gap: 30px;
+  width: 100%;
+  display: flex;
+}
+.B_7_2049 {
+  color: #000;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.WeUseTheTermExpertToReferToExpertiseInformedByARangeOfDomainKnowledgeAndLivedExperiences_7_2050 {
+  color: #000;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.Frame_17_7_2051 {
+  align-items: flex-start;
+  gap: 30px;
+  width: 100%;
+  display: flex;
+}
+.C_7_2052 {
+  color: #000;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.WeHaveAlsoTakenFeedbackOnTheRiskProfileOfOurSystemsInOtherFormsSuchAsTheBugBountyProgramAndTheChatGptFeedbackContest_7_2053 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Section_03_7_2201 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 96px;
+  width: 100%;
+  padding: 0 24px;
+  display: flex;
+}
+.Frame_2_7_2112 {
+  box-sizing: border-box;
+  border-top: 1px solid #000;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.Footnotes_7_2113 {
+  color: #000;
+  width: 205px;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_7_2129 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_7_2130 {
+  align-items: flex-start;
+  gap: 30px;
+  width: 100%;
+  display: flex;
+}
+.A_7_2131 {
+  color: #000;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.TheTermRedTeamingHasBeenUsedToEncompassABroadRangeOfRiskAssessmentMethodsForAiSystemsIncludingQualitativeCapabilityDiscoveryStressTestingOfMitigationsAutomatedRedTeamingUsingLanguageModelsProvidingFeedbackOnTheScaleOfRiskForAParticularVulnerabilityEtcInOrderToReduceConfusionAssociatedWithTheTermRedTeamHelpThoseReadingAboutOurMethodsToBetterContextualizeAndUnderstandThemAndEspeciallyToAvoidFalseAssurancesWeAreWorkingToAdoptClearerTerminologyAsAdvisedInKhlaaf_2023HoweverForSimplicityAndInOrderToUseLanguageConsistentWithThatWeUsedWithOurCollaboratorsWeUseTheTermRedTeam_7_2132 {
+  color: #000;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.Frame_16_7_2133 {
+  align-items: flex-start;
+  gap: 30px;
+  width: 100%;
+  display: flex;
+}
+.B_7_2134 {
+  color: #000;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.WeUseTheTermExpertToReferToExpertiseInformedByARangeOfDomainKnowledgeAndLivedExperiences_7_2135 {
+  color: #000;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.Frame_16_7_2146 {
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 30px;
+  width: 100%;
+  display: flex;
+}
+.C_7_2147 {
+  color: #000;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.WeHaveAlsoTakenFeedbackOnTheRiskProfileOfOurSystemsInOtherFormsSuchAsTheBugBountyProgramAndTheChatGptFeedbackContest_7_2148 {
+  color: #000;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.Frame_3_7_2152 {
+  box-sizing: border-box;
+  border-top: 1px solid #000;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.Authors_7_2153 {
+  color: #000;
+  width: 205px;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_7_2154 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.OpenAi_7_2174 {
+  color: #000;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ViewAllArticles_7_2175 {
+  color: #000;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Section_04_7_2176 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  width: 100%;
+  padding: 104px 24px 110px;
+  display: flex;
+}
+.Frame_1_7_2177 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.RelatedResearch_7_2178 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.ViewAllResearch_7_2179 {
+  color: var(--Neutral-400, #000);
+  text-align: right;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_2_11_2003 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_11_2004 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_11_2005 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_11_2006 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.DallE_3SystemCard_11_2007 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Oct_3_2023_11_2008 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_11_11_2009 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_11_2010 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_11_2011 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Gpt_4VIsionSystemCard_11_2012 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Sep_25_2023_11_2013 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_12_11_2014 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_11_2015 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_11_2016 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ConfidenceBuildingMeasuresForArtificialIntelligenceWorkshopProceedings_11_2017 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Aug_1_2023_11_2018 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_13_11_2019 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_11_2020 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_11_2021 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.FrontierAiRegulationManagingEmergingRisksToPublicSafety_11_2022 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Jul_6_2023_11_2023 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Footer_7_2202 {
+  background: var(--Color-combo-Tangelo, #ff4500);
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+.Frame_1_5_290 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 256px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_1_5_261 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_16_5_271 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 435px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+}
+.Logo_5_262 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_5_248 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Research_5_245 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_246,
+.Index_5_247,
+.Gpt_4_5_298,
+.DallE_3_5_299 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_5_249 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Api_5_250 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_251,
+.DataPrivacy_5_252,
+.Pricing_5_303 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_310 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.Docs_5_304 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_306 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_3_5_253 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ChatGpt_5_254 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_255,
+.Enterprise_5_256 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_312 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.TryChatGpt_5_313 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_314 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_4_5_257 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Company_5_258 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.About_5_259,
+.Blog_5_260,
+.Careers_5_320,
+.Charter_5_321,
+.Security_5_322,
+.CustomerStories_5_323,
+.Safety_5_325 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_289 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 9px 0;
+  display: flex;
+}
+.Frame_2_5_272 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 435px;
+  display: flex;
+}
+.OpenAi_2015_2023_5_273 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.TermsPolicies_5_274,
+.PrivacyPolicy_5_275,
+.BrandGuidelines_5_296 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_288 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 53px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_278 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Twitter_5_276,
+.Youtube_5_277,
+.GitHub_5_279,
+.SoundCloud_5_280,
+.LinkedIn_5_281 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_5_283 {
+  align-items: center;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.BackToTop_5_284 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUp_5_285 {
+  width: 18px;
+  height: 18px;
+}
+.Group_1_7_1123 {
+  height: 520px;
+}

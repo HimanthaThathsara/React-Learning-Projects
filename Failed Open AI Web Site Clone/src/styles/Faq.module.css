@@ -1,0 +1,1313 @@
+.Faq_7_528 {
+  background: var(--Neutral-100, #fff);
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.Header_7_477 {
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 24px;
+  display: flex;
+}
+.Frame_1_4_209 {
+  align-items: center;
+  gap: 110px;
+  display: flex;
+}
+.Logo_4_200 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_4_76 {
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Frame_1_4_70 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Research_4_11 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_67 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_8_4_153 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Api_4_154 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_155 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_9_4_158 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.ChatGpt_4_159 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_160 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_6_4_143 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Safety_4_144 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_145 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_7_4_148 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Company_4_149 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_150 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_2_4_92 {
+  justify-content: flex-end;
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Search_4_94 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_4_96 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Login_4_97 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_98 {
+  width: 18px;
+  height: 18px;
+}
+.Button_4_174 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Button_4_118 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_119 {
+  width: 18px;
+  height: 18px;
+}
+.Section_01_7_311 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 96px;
+  width: 100%;
+  padding: 180px 24px 48px;
+  display: flex;
+}
+.Frame_1_7_312 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.EnterprisePrivacyAtOpenAi_7_313 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -1.46px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 73px;
+  display: inline-block;
+}
+.Frame_1_7_314 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.TrustAndPrivacyAreAtTheCoreOfOurMissionAtOpenAiWeReCommittedToPrivacyAndSecurityForChatGptEnterpriseAndOurApiPlatform_7_315 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Button_7_317 {
+  border: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.ArrowDown_4_119 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_1_7_382 {
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  padding: 0 24px;
+  display: flex;
+}
+.OurCommitments_7_323 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_1_7_380 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_343 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  display: flex;
+}
+.OwnershipYouOwnAndControlYourData_7_325 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.Frame_1_7_342 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_331 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_7_328 {
+  width: 18px;
+  height: 18px;
+}
+.WeDoNotTrainOnYourDataFromChatGptEnterpriseOrOurApiPlatform_7_327 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_7_332 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_7_333 {
+  width: 18px;
+  height: 18px;
+}
+.YouOwnYourInputsAndOutputsWhereAllowedByLaw_7_334 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_7_337 {
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_7_338 {
+  width: 18px;
+  height: 18px;
+}
+.YouControlHowLongYourDataIsRetainedChatGptEnterprise_7_339 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_7_344 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  display: flex;
+}
+.ControlYouDecideWhoHasAccess_7_345 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.Frame_1_7_346 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_347 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_7_348 {
+  width: 18px;
+  height: 18px;
+}
+.EnterpriseLevelAuthenticationThroughSamlSso_7_349 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_7_350 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_7_351 {
+  width: 18px;
+  height: 18px;
+}
+.FineGrainedControlOverAccessAndAvailableFeatures_7_352 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_7_353 {
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_7_354 {
+  width: 18px;
+  height: 18px;
+}
+.CustomModelsAreYoursAloneToUseTheyAreNotSharedWithAnyoneElse_7_355 {
+  color: var(--Neutral-400, #000);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_4_7_717 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  display: flex;
+}
+.SecurityComprehensiveCompliance_7_718 {
+  color: var(--Neutral-400, #000);
+  font-family: Test Söhne;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.Frame_1_7_719 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_720 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_7_721 {
+  width: 18px;
+  height: 18px;
+}
+.WeVeBeenAuditedForSoc_2Compliance_7_722 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_7_723 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_7_724 {
+  width: 18px;
+  height: 18px;
+}
+.DataEncryptionAtRestAes_256AndInTransitTls_1_2_7_725 {
+  color: var(--Neutral-400, #000);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_7_726 {
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_7_727 {
+  width: 18px;
+  height: 18px;
+}
+.VisitOurTrustPortalToUnderstandMoreAboutOurSecurityMeasures_7_728 {
+  color: var(--Neutral-400, #000);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Section_02_7_476 {
+  align-items: flex-start;
+  width: 100%;
+  height: 978px;
+  padding: 96px 24px;
+  display: flex;
+  overflow: hidden;
+}
+.Frame_1_7_475 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.GeneralFaq_7_383 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -1.46px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 80.3px;
+  display: inline-block;
+}
+.Frame_1_7_474 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_431 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.HowCanIUseOpenAiTechnologyInMyBusiness_7_384 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_385 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_2_7_432 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.DoesOpenAiTrainItsModelsOnMyBusinessData_7_433 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_434 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_3_7_438 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.WhatIfIUseOpenAiToFineTuneMyOwnModel_7_439 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_440 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_4_7_441 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.WhoOwnsInputsAndOutputs_7_442 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_443 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_5_7_450 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.HowDoesOpenAiEnsureDataSecurity_7_451 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_452 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_7_7_456 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.CanOpenAiSupportMyComplianceWithGdprAndOtherPrivacyLaws_7_457 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_458 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_6_7_453 {
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.DoesOpenAiReviewMyBusinessDataForPlatformAbuse_7_454 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_455 {
+  width: 28px;
+  height: 28px;
+}
+.Section_03_7_529 {
+  align-items: flex-start;
+  width: 100%;
+  height: 715px;
+  padding: 96px 24px;
+  display: flex;
+  overflow: hidden;
+}
+.Frame_1_7_530 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.ChatGptEnterpriseFaq_7_531 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -1.46px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 80.3px;
+  display: inline-block;
+}
+.Frame_1_7_532 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_533 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.WhatIsChatGptEnterprise_7_534 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_535 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_2_7_536 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.WhoCanViewConversationsAndChatHistoryInChatGptEnterprise_7_537 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_538 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_3_7_539 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.WhatComplianceStandardsDoesChatGptEnterpriseMeet_7_540 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_541 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_4_7_542 {
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.WhatIsOpenAiSPolicyOnDataRetentionForChatGptEnterprise_7_543 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_544 {
+  width: 28px;
+  height: 28px;
+}
+.Section_04_7_581 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 96px;
+  width: 100%;
+  height: 925px;
+  padding: 96px 24px;
+  display: flex;
+  overflow: hidden;
+}
+.Frame_4_7_790 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 1352px;
+  height: 523px;
+  padding: 13px 0;
+  display: flex;
+}
+.ApiPlatformFaq_7_791 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -1.46px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 80.3px;
+  display: inline-block;
+}
+.Frame_1_7_792 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_793 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.WhatComplianceStandardsDoesOpenAiSApiPlatformAdhereTo_7_794 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_795 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_2_7_796 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.CanTheApiPlatformBeUsedWithProtectedHealthInformation_7_797 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_798 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_3_7_799 {
+  border-bottom: 1px solid var(--Neutral-200, #ccc);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.CanIFineTuneOpenAiModelsUsingMyOwnData_7_800 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_801 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_4_7_802 {
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 32px 0;
+  display: flex;
+}
+.WhoCanViewStoredApiInputsOutputsAndFineTuningData_7_803 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Plus_7_804 {
+  width: 28px;
+  height: 28px;
+}
+.Frame_3_7_636 {
+  border-top: 1px solid var(--Neutral-400, #000);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding-top: 13px;
+  display: flex;
+}
+.NeedMoreHelp_7_637 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.IfYouHaveFurtherQuestionsOrRequireAssistancePleaseReachOutToOurSupportTeamViaOurHelpCenter_7_638 {
+  color: var(--Neutral-400, #000);
+  letter-spacing: -0.28px;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Footer_7_639 {
+  background: var(--Neutral-400, #000);
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+.Frame_1_5_290 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 256px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_1_5_261 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_16_5_271 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 435px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+}
+.Logo_5_262 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_5_248 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Research_5_245 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_246,
+.Index_5_247,
+.Gpt_4_5_298,
+.DallE_3_5_299 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_5_249 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Api_5_250 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_251,
+.DataPrivacy_5_252,
+.Pricing_5_303 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_310 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.Docs_5_304 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_306 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_3_5_253 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ChatGpt_5_254 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_255,
+.Enterprise_5_256 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_312 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.TryChatGpt_5_313 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_314 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_4_5_257 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Company_5_258 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.About_5_259,
+.Blog_5_260,
+.Careers_5_320,
+.Charter_5_321,
+.Security_5_322,
+.CustomerStories_5_323,
+.Safety_5_325 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_289 {
+  border-top: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 9px 0;
+  display: flex;
+}
+.Frame_2_5_272 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 435px;
+  display: flex;
+}
+.OpenAi_2015_2023_5_273 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.TermsPolicies_5_274,
+.PrivacyPolicy_5_275,
+.BrandGuidelines_5_296 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_288 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 53px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_278 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Twitter_5_276,
+.Youtube_5_277,
+.GitHub_5_279,
+.SoundCloud_5_280,
+.LinkedIn_5_281 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_5_283 {
+  align-items: center;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.BackToTop_5_284 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUp_5_285 {
+  width: 18px;
+  height: 18px;
+}
+.Group_1_7_1123 {
+  height: 520px;
+}

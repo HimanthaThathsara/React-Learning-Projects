@@ -1,0 +1,2419 @@
+.ChatGptOverview_8_3509 {
+  background: var(--Neutral-400, #000);
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.Header_8_3319 {
+  background: var(--Color-combo-Midnight-green, #005454);
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 24px;
+  display: flex;
+}
+.Frame_1_4_209 {
+  align-items: center;
+  gap: 110px;
+  display: flex;
+}
+.Logo_4_200 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_4_76 {
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Frame_1_4_70 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Research_4_11 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_67 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_8_4_153 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Api_4_154 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_155 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_9_4_158 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.ChatGpt_4_159 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_160 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_6_4_143 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Safety_4_144 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_145 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_7_4_148 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Company_4_149 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_150 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_2_4_92 {
+  justify-content: flex-end;
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Search_4_94 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_4_96 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Login_4_97 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_98 {
+  width: 18px;
+  height: 18px;
+}
+.Button_4_174 {
+  border: 1px solid var(--Color-combo-Mindaro, #ecff8c);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Button_4_118 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_119 {
+  width: 18px;
+  height: 18px;
+}
+.Section_01_7_3141 {
+  background: var(--Color-combo-Midnight-green, #005454);
+  align-items: flex-end;
+  gap: 24px;
+  width: 100%;
+  height: 722px;
+  padding: 60px 24px 105px;
+  display: flex;
+}
+.Frame_2_7_3139 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 36px;
+  width: 425px;
+  display: flex;
+}
+.Frame_2_7_3132 {
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  display: flex;
+}
+.ChatGpt_7_3128 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  letter-spacing: -1.46px;
+  font-family: Test Söhne;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 73px;
+  display: inline-block;
+}
+.GetInstantAnswersFindCreativeInspirationLearnSomethingNew_7_3130 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26.8px;
+  display: inline-block;
+}
+.Frame_2_7_3138 {
+  align-items: center;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.TryOnWeb_7_3133 {
+  color: var(--Color-combo-Mindaro, #ecff8c);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.ArrowUpRight_7_3134 {
+  width: 18px;
+  height: 18px;
+}
+.Image_7_3140 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / contain no-repeat;
+  flex: 1 0 0;
+}
+.Section_02_7_3216 {
+  background: var(--Color-combo-Eggshell, #e8e8d6);
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.AskMeAnything_7_3142 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  letter-spacing: -0.96px;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_7_3215 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_7_3168 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 48px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_7_3156 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_7_3145 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.TeachMeToNegotiate_7_3143 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_3_7_3148 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.QuizMeOnVocabulary_7_3149 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_4_7_3150 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.PlanASurfTripToCostaRica_7_3151 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_5_7_3152 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.DraftAThankYouNote_7_3153 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_7_3154 {
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.ExplainThisCode_7_3155 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_11_1454 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1455 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMeTrainForAHalfMarathon_11_1456 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_3_11_1457 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.TranslateThisRecipeIntoGreek_11_1458 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_4_11_1459 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.RankDogBreedsForASmallApartment_11_1460 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_5_11_1461 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMePlanAFunDinnerParty_11_1462 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_11_1463 {
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.DraftASocialMediaContentCalendar_11_1464 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_7_11_1476 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1477 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.ExplainWhyPopcornPops_11_1478 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_3_11_1479 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.PlanAnItineraryForTeensInHongKong_11_1480 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_4_11_1481 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.DesignADatabaseSchema_11_1482 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_5_11_1483 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.RecommendAnEasyPotluckDish_11_1484 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_11_1485 {
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMeBuildABudget_11_1486 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_3_7_3169 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 48px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_7_3170 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_7_3171 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMeTrainForAHalfMarathon_7_3172 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_3_7_3173 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.TranslateThisRecipeIntoGreek_7_3174 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_4_7_3175 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.RankDogBreedsForASmallApartment_7_3176 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_5_7_3177 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMePlanAFunDinnerParty_7_3178 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_7_3179 {
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.DraftASocialMediaContentCalendar_7_3180 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_11_1443 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1444 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.ExplainWhyPopcornPops_11_1445 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_3_11_1446 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.PlanAnItineraryForTeensInHongKong_11_1447 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_4_11_1448 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.DesignADatabaseSchema_11_1449 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_5_11_1450 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.RecommendAnEasyPotluckDish_11_1451 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_11_1452 {
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMeBuildABudget_11_1453 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_5_11_1399 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1400 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMeTrainForAHalfMarathon_11_1401 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_3_11_1402 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.TranslateThisRecipeIntoGreek_11_1403 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_4_11_1404 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.RankDogBreedsForASmallApartment_11_1405 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_5_11_1406 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMePlanAFunDinnerParty_11_1407 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_11_1408 {
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.DraftASocialMediaContentCalendar_11_1409 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_4_7_3192 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 48px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_7_3193 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_7_3194 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.ExplainWhyPopcornPops_7_3195 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_3_7_3196 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.PlanAnItineraryForTeensInHongKong_7_3197 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_4_7_3198 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.DesignADatabaseSchema_7_3199 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_5_7_3200 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.RecommendAnEasyPotluckDish_7_3201 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_7_3202 {
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMeBuildABudget_7_3203 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_11_1432 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1433 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.TeachMeToNegotiate_11_1434 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_3_11_1435 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.QuizMeOnVocabulary_11_1436 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_4_11_1437 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.PlanASurfTripToCostaRica_11_1438 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_5_11_1439 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.DraftAThankYouNote_11_1440 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_11_1441 {
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.ExplainThisCode_11_1442 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_7_11_1465 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1466 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMeTrainForAHalfMarathon_11_1467 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_3_11_1468 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.TranslateThisRecipeIntoGreek_11_1469 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_4_11_1470 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.RankDogBreedsForASmallApartment_11_1471 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_5_11_1472 {
+  border-bottom: 1px solid var(--Color-combo-border-2, #b7b6a7);
+  box-sizing: border-box;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.HelpMePlanAFunDinnerParty_11_1473 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Frame_6_11_1474 {
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 3px 0;
+  display: flex;
+}
+.DraftASocialMediaContentCalendar_11_1475 {
+  color: var(--Color-combo-Dark-green, #1f3319);
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.Section_03_7_3243 {
+  background: var(--Color-combo-Lavender, #e0ebff);
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  width: 100%;
+  padding: 60px 24px;
+  display: flex;
+}
+.Frame_2_7_3220 {
+  border-top: 1px solid var(--Color-combo-Marian-blue, #0f3e99);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.ChatGptCanSeeHearAndSpeak_7_3219 {
+  color: var(--Color-combo-Marian-blue, #0f3e99);
+  letter-spacing: -0.96px;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_7_3242 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_14_7_3221 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_7_3222 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_2_7_3227 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_3223 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  display: flex;
+}
+.ChatWithImages_7_3224 {
+  color: var(--Color-combo-Marian-blue, #0f3e99);
+  font-family: Test Söhne;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.YouCanNowShowChatGptImagesAndStartAChatTroubleshootWhyYourGrillWonTStartExploreTheContentsOfYourFridgeToPlanAMealOrAnalyzeAComplexGraphForWorkRelatedData_7_3225 {
+  color: var(--Color-combo-Marian-blue, #0f3e99);
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.LearnMore_7_3226 {
+  color: var(--Color-combo-Marian-blue, #0f3e99);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_15_7_3228 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_7_3229 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_2_7_3230 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_3231 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  display: flex;
+}
+.CreateNewImages_7_3232 {
+  color: var(--Color-combo-Marian-blue, #0f3e99);
+  font-family: Test Söhne;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.CreateImagesSimplyByDescribingThemInChatGptInventNewLogosComicStripsAndPhotorealisticScenesRightInTheChatYouCanBringYourIdeasToLifeWithOurMostCapableImageModelDallE_3_7_3233 {
+  color: var(--Color-combo-Marian-blue, #0f3e99);
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.LearnMore_7_3234 {
+  color: var(--Color-combo-Marian-blue, #0f3e99);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_16_7_3235 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_7_3236 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 434px;
+}
+.Frame_2_7_3237 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_7_3238 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  display: flex;
+}
+.ChatWithVoice_7_3239 {
+  color: var(--Color-combo-Marian-blue, #0f3e99);
+  font-family: Test Söhne;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.YouCanNowUseVoiceToEngageInABackAndForthConversationWithChatGptSpeakWithItOnTheGoRequestABedtimeStoryForYourFamilyOrSettleADinnerTableDebate_7_3240 {
+  color: var(--Color-combo-Marian-blue, #0f3e99);
+  font-family: Test Signifier;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.4px;
+  display: inline-block;
+}
+.LearnMore_7_3241 {
+  color: var(--Color-combo-Marian-blue, #0f3e99);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Section_04_8_3318 {
+  background: var(--Color-combo-Purple, purple);
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_3_8_3244 {
+  border-top: 1px solid var(--Color-combo-Celeste, #caffff);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.Plans_8_3245 {
+  color: var(--Color-combo-Celeste, #caffff);
+  letter-spacing: -0.96px;
+  width: 149px;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_8_3317 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_8_3283 {
+  border: 1px solid var(--Color-combo-Celeste, #caffff);
+  box-sizing: border-box;
+  border-radius: 3.2px;
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 21px;
+  display: flex;
+}
+.Frame_2_8_3256 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  display: flex;
+}
+.Free_8_3246 {
+  color: var(--Color-combo-Celeste, #caffff);
+  letter-spacing: -0.96px;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_8_3249 {
+  align-items: center;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.generated_0_8_3247 {
+  color: var(--Color-combo-Celeste, #caffff);
+  font-family: Test Söhne;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.Month_8_3248 {
+  color: var(--Color-combo-Celeste, #caffff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Button_8_3250 {
+  border: 1px solid var(--Color-combo-Celeste, #caffff);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Frame_1_8_3257 {
+  border-top: 1px solid var(--Color-combo-Celeste, #caffff);
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_8_3258 {
+  box-sizing: border-box;
+  border-bottom: 1px solid #ffffff4d;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_8_3259 {
+  width: 18px;
+  height: 18px;
+}
+.AccessToGpt_3_5_8_3260 {
+  color: var(--Color-combo-Celeste, #caffff);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_8_3261 {
+  box-sizing: border-box;
+  border-bottom: 1px solid #ffffff4d;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_8_3262 {
+  width: 18px;
+  height: 18px;
+}
+.MentalHealthcareSupportAndServices_8_3263 {
+  color: var(--Color-combo-Celeste, #caffff);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_8_3270 {
+  box-sizing: border-box;
+  border-bottom: 1px solid #ffffff4d;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_8_3271 {
+  width: 18px;
+  height: 18px;
+}
+.DomesticConferenceBudgetForEachEmployee_8_3272 {
+  color: var(--Color-combo-Celeste, #caffff);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_4_8_3284 {
+  border: 1px solid var(--Color-combo-Celeste, #caffff);
+  box-sizing: border-box;
+  border-radius: 3.2px;
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 21px;
+  display: flex;
+}
+.Frame_2_8_3285 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  display: flex;
+}
+.Plus_8_3286 {
+  color: var(--Color-combo-Celeste, #caffff);
+  letter-spacing: -0.96px;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_8_3287 {
+  align-items: center;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.generated_20_8_3288 {
+  color: var(--Color-combo-Celeste, #caffff);
+  font-family: Test Söhne;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 27.3px;
+  display: inline-block;
+}
+.Month_8_3289 {
+  color: var(--Color-combo-Celeste, #caffff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Button_8_3290 {
+  border: 1px solid var(--Color-combo-Celeste, #caffff);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Frame_1_8_3291 {
+  border-top: 1px solid var(--Color-combo-Celeste, #caffff);
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  width: 100%;
+  display: flex;
+}
+.Frame_6_11_1496 {
+  box-sizing: border-box;
+  border-bottom: 1px solid #ffffff4d;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1497 {
+  width: 18px;
+  height: 18px;
+}
+.AccessToGpt_4OurMostCapableModel_11_1498 {
+  color: var(--Color-combo-Celeste, #caffff);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_7_11_1501 {
+  box-sizing: border-box;
+  border-bottom: 1px solid #ffffff4d;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1502 {
+  width: 18px;
+  height: 18px;
+}
+.ChatWithImagesVoiceAndCreateImages_11_1503 {
+  color: var(--Color-combo-Celeste, #caffff);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_5_11_1491 {
+  box-sizing: border-box;
+  border-bottom: 1px solid #ffffff4d;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1492 {
+  width: 18px;
+  height: 18px;
+}
+.UseAndBuildCustomGpTs_11_1493 {
+  color: var(--Color-combo-Celeste, #caffff);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_11_1506 {
+  box-sizing: border-box;
+  border-bottom: 1px solid #ffffff4d;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  display: flex;
+}
+.Check_11_1507 {
+  width: 18px;
+  height: 18px;
+}
+.AndIncludesEverythingInFree_11_1508 {
+  color: var(--Color-combo-Celeste, #caffff);
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Section_05_8_3421 {
+  background: var(--Color-combo-Dark-moss-green, #566600);
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 24px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_3_8_3370 {
+  border-top: 1px solid var(--Color-combo-Misty-rose, #ffd8d4);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 0 96px;
+  display: flex;
+}
+.DoMoreWithGpTs_8_3371 {
+  color: var(--Color-combo-Misty-rose, #ffd8d4);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Söhne;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_8_3375 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.YouCanChooseFromHundredsOfGpTsThatAreCustomizedForASinglePurposeCreativeWritingMarathonTrainingTripPlanningOrMathTutoringBuildingAGptDoesnTRequireAnyCodeSoYouCanCreateOneForAlmostAnythingWithSimpleInstructionsDoMoreWithGpTsLinks_8_3372 {
+  color: var(--Color-combo-Misty-rose, #ffd8d4);
+  letter-spacing: -0.28px;
+  font-family: Test Signifier;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.LearnMore_8_3374 {
+  color: var(--Color-combo-Misty-rose, #ffd8d4);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_2_8_3399 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_8_3382 {
+  background: var(--Color-combo-Seasalt, #f7f7f8);
+  border-radius: 8px;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  padding: 24px;
+  display: flex;
+}
+.Frame_2_8_3380 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.GameTime_8_3376 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  display: inline-block;
+}
+.ICanQuicklyExplainBoardGamesOrCardGamesToPlayersOfAnyAgeLetTheGamesBegin_8_3378 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15.6px;
+  display: inline-block;
+}
+.Image_8_3381 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  border-radius: 300px;
+  width: 92px;
+  height: 92px;
+}
+.Frame_8_11_1333 {
+  background: var(--Color-combo-Seasalt, #f7f7f8);
+  border-radius: 8px;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  padding: 24px;
+  display: flex;
+}
+.Frame_2_11_1334 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.TheNagotiator_11_1335 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  display: inline-block;
+}
+.ILlHelpYouAdvocateForYourselfAndGetBetterOutcomesBecomeAGreatNegotiator_11_1336 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15.6px;
+  display: inline-block;
+}
+.Image_11_1337 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  width: 92px;
+  height: 92px;
+}
+.Frame_7_11_1328 {
+  background: var(--Color-combo-Seasalt, #f7f7f8);
+  border-radius: 8px;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  padding: 24px;
+  display: flex;
+}
+.Frame_2_11_1329 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.CreativeWritingCoash_11_1330 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  display: inline-block;
+}
+.IMEagerToReadYourWorkAndGiveYouFeedbackToImproveYourSkills_11_1331 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15.6px;
+  display: inline-block;
+}
+.Image_11_1332 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  width: 92px;
+  height: 92px;
+}
+.Frame_9_11_1338 {
+  background: var(--Color-combo-Seasalt, #f7f7f8);
+  border-radius: 8px;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  padding: 24px;
+  display: flex;
+}
+.Frame_2_11_1339 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.TechSupportAdvisor_11_1340 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  display: inline-block;
+}
+.FromSettingUpAPrinterToTroubleshootingADeviceIMHereToHelpYouStepByStep_11_1341 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15.6px;
+  display: inline-block;
+}
+.Image_11_1342 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  border-radius: 300px;
+  width: 92px;
+  height: 92px;
+}
+.Frame_5_11_1514 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_2_11_1515 {
+  background: var(--Color-combo-Seasalt, #f7f7f8);
+  border-radius: 8px;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  padding: 24px;
+  display: flex;
+}
+.Frame_2_11_1516 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.GameTime_11_1517 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  display: inline-block;
+}
+.ICanQuicklyExplainBoardGamesOrCardGamesToPlayersOfAnyAgeLetTheGamesBegin_11_1518 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15.6px;
+  display: inline-block;
+}
+.Image_11_1519 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  width: 92px;
+  height: 92px;
+}
+.Frame_8_11_1520 {
+  background: var(--Color-combo-Seasalt, #f7f7f8);
+  border-radius: 8px;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  padding: 24px;
+  display: flex;
+}
+.Frame_2_11_1521 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.TheNagotiator_11_1522 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  display: inline-block;
+}
+.ILlHelpYouAdvocateForYourselfAndGetBetterOutcomesBecomeAGreatNegotiator_11_1523 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15.6px;
+  display: inline-block;
+}
+.Image_11_1524 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  border-radius: 300px;
+  width: 92px;
+  height: 92px;
+}
+.Frame_7_11_1525 {
+  background: var(--Color-combo-Seasalt, #f7f7f8);
+  border-radius: 8px;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  padding: 24px;
+  display: flex;
+}
+.Frame_2_11_1526 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.CreativeWritingCoash_11_1527 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  display: inline-block;
+}
+.IMEagerToReadYourWorkAndGiveYouFeedbackToImproveYourSkills_11_1528 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15.6px;
+  display: inline-block;
+}
+.Image_11_1529 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  width: 92px;
+  height: 92px;
+}
+.Frame_9_11_1530 {
+  background: var(--Color-combo-Seasalt, #f7f7f8);
+  border-radius: 8px;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 16px;
+  width: 100%;
+  padding: 24px;
+  display: flex;
+}
+.Frame_2_11_1531 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.TechSupportAdvisor_11_1532 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  display: inline-block;
+}
+.FromSettingUpAPrinterToTroubleshootingADeviceIMHereToHelpYouStepByStep_11_1533 {
+  color: var(--Color-combo-Eerie-black, #202123);
+  font-family: Test Söhne;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15.6px;
+  display: inline-block;
+}
+.Image_11_1534 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  width: 92px;
+  height: 92px;
+}
+.Footer_8_3422 {
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+.Frame_1_5_290 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 256px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_1_5_261 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_16_5_271 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 435px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+}
+.Logo_5_262 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_5_248 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Research_5_245 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_246,
+.Index_5_247,
+.Gpt_4_5_298,
+.DallE_3_5_299 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_5_249 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Api_5_250 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_251,
+.DataPrivacy_5_252,
+.Pricing_5_303 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_310 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.Docs_5_304 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_306 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_3_5_253 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ChatGpt_5_254 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_255,
+.Enterprise_5_256 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_312 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.TryChatGpt_5_313 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_314 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_4_5_257 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Company_5_258 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.About_5_259,
+.Blog_5_260,
+.Careers_5_320,
+.Charter_5_321,
+.Security_5_322,
+.CustomerStories_5_323,
+.Safety_5_325 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_289 {
+  border-top: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 9px 0;
+  display: flex;
+}
+.Frame_2_5_272 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 435px;
+  display: flex;
+}
+.OpenAi_2015_2023_5_273 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.TermsPolicies_5_274,
+.PrivacyPolicy_5_275,
+.BrandGuidelines_5_296 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_288 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 53px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_278 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Twitter_5_276,
+.Youtube_5_277,
+.GitHub_5_279,
+.SoundCloud_5_280,
+.LinkedIn_5_281 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_5_283 {
+  align-items: center;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.BackToTop_5_284 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUp_5_285 {
+  width: 18px;
+  height: 18px;
+}
+.Group_1_7_1123 {
+  height: 520px;
+}

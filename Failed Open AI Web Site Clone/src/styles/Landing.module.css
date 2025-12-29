@@ -1,0 +1,1448 @@
+.Landing_5_116 {
+  background: var(--Neutral-400, #000);
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+.Section_01_4_224 {
+  background: linear-gradient(#0006 0% 100%),
+    #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 744px;
+  display: flex;
+  overflow: hidden;
+}
+.Header_4_225 {
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 24px;
+  display: flex;
+}
+.Frame_1_4_209 {
+  align-items: center;
+  gap: 110px;
+  display: flex;
+}
+.Logo_4_200 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_4_76 {
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Frame_1_4_70 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Research_4_11 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_67 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_8_4_153 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Api_4_154 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_155 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_9_4_158 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.ChatGpt_4_159 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_160 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_6_4_143 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Safety_4_144 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_145 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_7_4_148 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Company_4_149 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.CaretDown_4_150 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_2_4_92 {
+  justify-content: flex-end;
+  align-items: center;
+  gap: 24px;
+  display: flex;
+}
+.Search_4_94 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_4_96 {
+  align-items: center;
+  gap: 2px;
+  display: flex;
+}
+.Login_4_97 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_98 {
+  width: 18px;
+  height: 18px;
+}
+.Button_4_174 {
+  border: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Button_4_118 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_4_119 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_1_4_222 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 60px;
+  width: 887px;
+  padding: 32px 0;
+  display: flex;
+}
+.CreatingSafeAgiThatBenefitsAllOfHumanity_4_2 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -1.46px;
+  font-family: Test Söhne;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 73px;
+  display: inline-block;
+}
+.Button_4_216 {
+  border: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  border-radius: 3.6px;
+  align-items: center;
+  gap: 2px;
+  padding: 3px 10px 5px;
+  display: flex;
+}
+.Section_02_4_290 {
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  padding: 60px 24px 96px;
+  display: flex;
+}
+.Frame_1_4_286 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  padding-right: 48px;
+  display: flex;
+}
+.PioneeringResearchOnThePathToAgi_4_276 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.LearnAboutOurResearch_4_278 {
+  color: var(--Neutral-100, #fff);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_11_4_287 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  padding-right: 48px;
+  display: flex;
+}
+.TransformingWorkAndCreativityWithAi_4_288 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.ExploreOurProducts_4_289 {
+  color: var(--Neutral-100, #fff);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_12_4_291 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  padding-right: 48px;
+  display: flex;
+}
+.JoinUsInShapingTheFutureOfTechnology_4_292 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.ViewCareers_4_293 {
+  color: var(--Neutral-100, #fff);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Section_03_5_115 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  width: 100%;
+  padding: 0 24px 110px;
+  display: flex;
+}
+.Frame_1_5_91 {
+  border-top: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.LatestUpdates_4_294 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.96px;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Söhne_5_90 {
+  color: var(--Neutral-100, #fff);
+  text-align: right;
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_1_5_114 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_98 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_92 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_97 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.SamAltmanReturnsAsCeoOpenAiHasANewInitialBoard_5_94 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Nov_29_2023_5_96 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_11_5_99 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_100 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_101 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.OpenAiAnnouncesLeadershipTransition_5_102 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Nov_17_2023_5_103 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_12_5_104 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_105 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_106 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.OpenAiDataPartnerships_5_107 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Nov_9_2023_5_108 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_13_5_109 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_110 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_111 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.IntroducingGpTs_5_112 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Nov_6_2023_5_113 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Section_04_5_118 {
+  border-top: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 24px 97px;
+  display: flex;
+}
+.SafetyResponsibility_5_119 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_5_146 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  display: flex;
+}
+.OurWorkToCreateSafeAndBeneficialAiRequiresADeepUnderstandingOfThePotentialRisksAndBenefitsAsWellAsCarefulConsiderationOfTheImpact_5_147 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.LearnAboutSafety_5_148 {
+  color: var(--Neutral-100, #fff);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Image_5_149 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 1023px;
+}
+.Section_05_5_155 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  width: 100%;
+  padding: 104px 24px 110px;
+  display: flex;
+}
+.Frame_1_5_156 {
+  border-top: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.Research_5_157 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_5_180 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  display: flex;
+}
+.WeResearchGenerativeModelsAndHowToAlignThemWithHumanValues_5_181 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.LearnAboutOurResearch_5_182 {
+  color: var(--Neutral-100, #fff);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_1_5_159 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_160 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_161 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_162 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.DallE_3SystemCard_5_163 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Oct_3_2023_5_164 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_11_5_165 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_166 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_167 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Gpt_4VIsionSystemCard_5_168 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Sep_25_2023_5_169 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_12_5_170 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_171 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_172 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ConfidenceBuildingMeasuresForArtificialIntelligenceWorkshopProceedings_5_173 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Aug_1_2023_5_174 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_13_5_175 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_176 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_177 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.FrontierAiRegulationManagingEmergingRisksToPublicSafety_5_178 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Jul_6_2023_5_179 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Section_06_5_183 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  width: 100%;
+  padding: 0 24px 110px;
+  display: flex;
+}
+.Frame_1_5_184 {
+  border-top: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.Products_5_185 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_5_186 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  display: flex;
+}
+.OurApiPlatformOffersOurLatestModelsAndGuidesForSafetyBestPractices_5_187 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.ExploreOurProducts_5_188 {
+  color: var(--Neutral-100, #fff);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Frame_1_5_189 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_190 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_191 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_192 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.IntroducingGpTs_5_193 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Nov_6_2023_5_194 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_11_5_195 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_196 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_197 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.NewModelsAndDeveloperProductsAnnouncedAtDevDay_5_198 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Nov_6_2023_5_199 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_12_5_200 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_201 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_202 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.DallE_3IsNowAvailableInChatGptPlusAndEnterprise_5_203 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Oct_19_2023_5_204 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_13_5_205 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  display: flex;
+}
+.Image_5_206 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 317px;
+}
+.Frame_1_5_207 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ChatGptCanNowSeeHearAndSpeak_5_208 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Sep_25_2023_5_209 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Section_07_5_210 {
+  border-top: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding: 13px 24px 97px;
+  display: flex;
+}
+.CareersAtOpenAi_5_211 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.96px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 52.8px;
+  display: inline-block;
+}
+.Frame_2_5_212 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  display: flex;
+}
+.DevelopingSafeAndBeneficialAiRequiresPeopleFromAWideRangeOfDisciplinesAndBackgrounds_5_213 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.ViewCareers_5_214 {
+  color: var(--Neutral-100, #fff);
+  text-decoration-skip-ink: none;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: auto;
+  display: inline-block;
+}
+.Image_5_215 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  height: 995px;
+}
+.Section_08_5_225 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  height: 960px;
+  padding: 104px 24px 96px;
+  display: flex;
+  overflow: hidden;
+}
+.Frame_1_5_224 {
+  border-top: 1px solid var(--Neutral-300, #333);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 13px 24px;
+  display: flex;
+}
+.Frame_1_5_221 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.IEncourageMyTeamToKeepLearningIdeasInDifferentTopicsOrFieldsCanOftenInspireNewIdeasAndBroadenThePotentialSolutionSpace_5_216 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -0.55px;
+  font-family: Test Signifier;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 60.5px;
+  display: inline-block;
+}
+.Frame_1_5_220 {
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  display: flex;
+}
+.LilianWeng_5_218 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.AppliedAiAtOpenAi_5_219 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Image_5_222 {
+  background: #d3d3d3 url(https://res.cloudinary.com/dljmf7bk8/image/upload/f_jpg/fl_lossy/w_1200/dpr_auto/q_70/v1703098350/Open_AI_1_4c36b218f6.jpg) 50% / cover no-repeat;
+  flex: 1 0 0;
+  height: 734px;
+}
+.Section_09_5_244 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 97px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_14_5_229 {
+  border-top: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 13px 0;
+  display: flex;
+}
+.JoinUsInShapingTheFutureOfTechnology_5_230 {
+  color: var(--Neutral-100, #fff);
+  letter-spacing: -1.46px;
+  flex: 1 0 0;
+  font-family: Test Signifier;
+  font-size: 73px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 80.3px;
+  display: inline-block;
+}
+.ButtonLarge_5_242 {
+  border: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  border-radius: 5.6px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 29px 16px 31px;
+  display: flex;
+}
+.Button_5_235 {
+  color: var(--Neutral-100, #fff);
+  text-align: center;
+  letter-spacing: -0.28px;
+  font-family: Test Söhne;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33.6px;
+  display: inline-block;
+}
+.Footer_5_330 {
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+}
+.Frame_1_5_290 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 256px;
+  width: 100%;
+  padding: 96px 24px;
+  display: flex;
+}
+.Frame_1_5_261 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Frame_16_5_271 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 435px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+}
+.Logo_5_262 {
+  width: 105.572px;
+  height: 32px;
+}
+.Frame_1_5_248 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Research_5_245 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_246,
+.Index_5_247,
+.Gpt_4_5_298,
+.DallE_3_5_299 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_2_5_249 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Api_5_250 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_251,
+.DataPrivacy_5_252,
+.Pricing_5_303 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_310 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.Docs_5_304 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_306 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_3_5_253 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.ChatGpt_5_254 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Overview_5_255,
+.Enterprise_5_256 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_312 {
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.TryChatGpt_5_313 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUpRight_5_314 {
+  width: 18px;
+  height: 18px;
+}
+.Frame_4_5_257 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  display: flex;
+}
+.Company_5_258 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.About_5_259,
+.Blog_5_260,
+.Careers_5_320,
+.Charter_5_321,
+.Security_5_322,
+.CustomerStories_5_323,
+.Safety_5_325 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_289 {
+  border-top: 1px solid var(--Neutral-100, #fff);
+  box-sizing: border-box;
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  padding: 9px 0;
+  display: flex;
+}
+.Frame_2_5_272 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 435px;
+  display: flex;
+}
+.OpenAi_2015_2023_5_273 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.TermsPolicies_5_274,
+.PrivacyPolicy_5_275,
+.BrandGuidelines_5_296 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_1_5_288 {
+  flex-direction: column;
+  flex: 1 0 0;
+  align-items: flex-start;
+  gap: 53px;
+  width: 100%;
+  display: flex;
+}
+.Frame_1_5_278 {
+  align-items: flex-start;
+  gap: 24px;
+  width: 100%;
+  display: flex;
+}
+.Twitter_5_276,
+.Youtube_5_277,
+.GitHub_5_279,
+.SoundCloud_5_280,
+.LinkedIn_5_281 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.Frame_3_5_283 {
+  align-items: center;
+  gap: 2px;
+  width: 100%;
+  display: flex;
+}
+.BackToTop_5_284 {
+  color: var(--Neutral-100, #fff);
+  font-family: Test Söhne;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23.4px;
+  display: inline-block;
+}
+.ArrowUp_5_285 {
+  width: 18px;
+  height: 18px;
+}
+.Group_1_7_1123 {
+  height: 520px;
+}
