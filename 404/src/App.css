@@ -39,12 +39,6 @@ body {
   margin-left: 60px;
 }
 
-@media (max-width: 900px) {
-  .navbar {
-    display: none;
-  }
-}
-
 .header-container {
   position: absolute;
   width: 100%;
