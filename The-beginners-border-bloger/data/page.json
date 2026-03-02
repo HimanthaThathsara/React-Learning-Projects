@@ -1,0 +1,18 @@
+{
+  "Logo": "/logos/FyrreMagazineFavicon.svg",
+  "Art_Life": {
+    "imgSrc": "/images/titles/Art&Life.svg",
+    "imgAlt": "The words 'Art & Life' in bold uppercase lettering",
+    "titleText": "Art & Life"
+  },
+  "Podcast": {
+    "url": "/podcasts",
+    "linkText": "All episodes",
+    "titleText": "Podcast"
+  },
+  "Authors": {
+    "url": "/authors",
+    "linkText": "All authors",
+    "titleText": "Authors"
+  }
+}

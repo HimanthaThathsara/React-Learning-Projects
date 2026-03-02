@@ -1,0 +1,22 @@
+{
+  "Metadata": {
+    "title": "Essentials 101 | Art & Life | Home",
+    "description": "Articles, podcasts and news from the Berlin cultural scene"
+  },
+  "Page_Title": "Art & Life",
+  "Image_Path": "/images/titles/Art&Life.svg",
+  "imgAlt": "The words 'Art & Life' in bold uppercase lettering",
+
+  "SubHeading": {
+    "Podcast": {
+      "Podcast_Title": "Podcast",
+      "url": "/podcasts",
+      "linkText": "All episodes"
+    },
+    "Authors": {
+      "Authors_Title": "Authors",
+      "url": "/authors",
+      "linkText": "All authors"
+    }
+  }
+}

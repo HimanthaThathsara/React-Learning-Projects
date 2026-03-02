@@ -1,0 +1,50 @@
+{
+  "PageTitle": {
+    "Title": "Magazine",
+    "imgSrc": "/images/titles/Magazine.svg",
+    "imgAlt": "The word 'Magazine' in bold, uppercase lettering"
+  },
+  "Back_Button": {
+    "Title": "Magazine",
+    "href": "/magazine"
+  },
+  "Not_Found": {
+    "title": "Article Not Found | Essentials 101",
+    "description": "The article you are looking for does not exist.",
+    "Not_Found": "No matching Article found"
+  },
+  "Meta_Data": {
+    "Text": "Text",
+    "Date": "Date",
+    "Read": "Read",
+    "Share": "Share",
+    "Share_Link": {
+      "links": [
+        {
+          "href": "#",
+          "ariaLabel": "Visit our Instagram page",
+          "src": "/icons/ri_instagram-line.svg",
+          "alt": "Instagram logo"
+        },
+        {
+          "href": "#",
+          "ariaLabel": "Visit our Twitter page",
+          "src": "/icons/ri_twitter-fill.svg",
+          "alt": "Twitter logo"
+        },
+        {
+          "href": "#",
+          "ariaLabel": "Visit our YouTube page",
+          "src": "/icons/ri_youtube-fill.svg",
+          "alt": "YouTube logo"
+        }
+      ]
+    }
+  },
+  "Latest_Posts": {
+    "Latest_Posts": "Latest Posts",
+    "Duration": "Duration",
+    "Text": "Text"
+  },
+  "error": "Error loading podcast details."
+}

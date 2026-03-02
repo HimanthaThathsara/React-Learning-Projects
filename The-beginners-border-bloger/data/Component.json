@@ -1,0 +1,154 @@
+{
+  "Articles": {
+    "Categories": "Categories",
+    "All_Articles": "All Articles",
+    "Latest_Articles": "Latest Articles",
+    "Meta_info": {
+      "Text": "Text",
+      "Duration": "Duration"
+    }
+  },
+  "AuthorList": {
+    "Job": "Job",
+    "City": "City",
+    "About": "About",
+    "src": "/icons/ri_arrow-right-line.svg",
+    "alt": "An arrow pointing right"
+  },
+  "AuthoraHomepage": {
+    "Authors_Meta_info": {
+      "Job": "Job",
+      "City": "City"
+    }
+  },
+  "Footer": {
+    "footerIcon": "Essentials 101",
+    "footerNewsletterTitle": "News to your inbox",
+    "footerCblackitText": "Developed by Essentials 101. All content belongs to their respective copyright holders.",
+    "LinksSectionOne": {
+      "links": [
+        {"label": "About Us", "url": "/about"},
+        {"label": "Careers", "url": "/careers"},
+        {"label": "Press", "url": "/press"}
+      ]
+    },
+    "LinksSectionTwo": {
+      "links": [
+        {"label": "Contact", "url": "/contact"},
+        {"label": "Privacy Policy", "url": "/privacy-policy"},
+        {"label": "Terms of Service", "url": "/terms-of-service"}
+      ]
+    },
+    "LinksSectionThree": {
+      "links": [
+        {"label": "Facebook", "url": "https://facebook.com/fyrremagazine"},
+        {"label": "Twitter", "url": "https://twitter.com/fyrremagazine"},
+        {"label": "Instagram", "url": "https://instagram.com/fyrremagazine"}
+      ]
+    },
+    "SocialMedia": {
+      "Link": [
+        {
+          "href": "#",
+          "ariaLabel": "Visit our Instagram page",
+          "src": "/icons/ri_instagram-line-white.svg",
+          "alt": "Instagram logo"
+        },
+        {
+          "href": "#",
+          "ariaLabel": "Visit our Twitter page",
+          "src": "/icons/ri_twitter-fill-white.svg",
+          "alt": "Twitter logo"
+        },
+        {
+          "href": "#",
+          "ariaLabel": "Visit our YouTube page",
+          "src": "/icons/ri_youtube-fill-white.svg",
+          "alt": "YouTube logo"
+        },
+        {
+          "href": "#",
+          "ariaLabel": "Visit our RSS Feed",
+          "src": "/icons/ri_rss-fill-white.svg",
+          "alt": "RSS Feed logo"
+        }
+      ]
+    }
+  },
+  "Header": {
+    "Logo_src": "/logos/FyrreMagazineLogo-black.svg",
+    "Menu": "Menu",
+    "Mobile_links": [
+      {
+        "href": "#",
+        "ariaLabel": "Visit our Instagram page",
+        "src": "/icons/ri_instagram-line.svg",
+        "alt": "Instagram logo"
+      },
+      {
+        "href": "#",
+        "ariaLabel": "Visit our Twitter page",
+        "src": "/icons/ri_twitter-fill.svg",
+        "alt": "Twitter logo"
+      }
+    ],
+    "Desktop_links": [
+      {
+        "href": "#",
+        "ariaLabel": "Visit our Instagram page",
+        "src": "/icons/ri_instagram-line.svg",
+        "alt": "Instagram logo"
+      },
+      {
+        "href": "#",
+        "ariaLabel": "Visit our Twitter page",
+        "src": "/icons/ri_twitter-fill.svg",
+        "alt": "Twitter logo"
+      },
+      {
+        "href": "#",
+        "ariaLabel": "Visit our YouTube page",
+        "src": "/icons/ri_youtube-fill.svg",
+        "alt": "YouTube logo"
+      },
+      {
+        "href": "#",
+        "ariaLabel": "Visit our RSS feed",
+        "src": "/icons/ri_rss-fill.svg",
+        "alt": "RSS feed logo"
+      }
+    ]
+  },
+  "LatestArticles": {
+    "LatestArticle_Meta_Info": {
+      "Text": "Text",
+      "Read": "Read",
+      "Date": "Date"
+    }
+  },
+  "LatestPodcasts": {
+    "LatestPodcasts_Meta_Info": {
+      "Date": "Date",
+      "Duration": "Duration"
+    }
+  },
+  "PoadcastList": {
+    "Icon": "/icons/ri_arrow-right-line.svg",
+    "Icon_alt": "Right Arrow Icon",
+    "Listen": "Listen"
+  },
+  "PostNavigation": {
+    "Go Back": "Go Back",
+    "src": "/icons/ri_arrow-right-line.svg",
+    "alt": "Right arrow"
+  },
+  "Sidebar": {
+    "Printmagazine": "Printmagazine",
+    "date": "03/2022",
+    "magazineCover": "/images/covers/printmagazine-03-2022.jpg",
+    "magazine_alt": "A rust-coloblack magazine cover, showing a sculpture of a man, the words 'Essentials 101' on the top left and '03/2022' on the bottom right, a gold badge just above with 'EXCLUSIVE JAKOB GRONBERG INTERVIEW' printed on it, and an arrow pointing in the bottom right corner",
+    "Order": "Order",
+    "Newsletter": "Newsletter",
+    "Newsletter_paragraph": "Design News to your Inbox"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Author": {
+    "img_url": "/images/titles/Authors.svg",
+    "imgAlt": "The word 'Author' in uppercase, bold lettering",
+    "Name": "Authors"
+  },
+  "PageTitle": {
+    "Title": "Authors",
+    "imgSrc": "/images/titles/Authors.svg",
+    "imgAlt": "The word 'Author' in uppercase, bold lettering"
+  },
+  "Back_Button": {
+    "Title": "Author",
+    "href": "/authors"
+  },
+  "Not_Found": {
+    "title": "Author Not Found | Essentials 101",
+    "description": "The Author you are looking for does not exist.",
+    "Not_Found": "No matching Author found"
+  },
+  "Meta_Data": {
+    "Follow": "Follow",
+    "Articles_by": "Articles by",
+    "Share_Link": {
+      "links": [
+        {
+          "href": "#",
+          "ariaLabel": "Visit our Instagram page",
+          "src": "/icons/ri_instagram-line.svg",
+          "alt": "Instagram logo"
+        },
+        {
+          "href": "#",
+          "ariaLabel": "Visit our Twitter page",
+          "src": "/icons/ri_twitter-fill.svg",
+          "alt": "Twitter logo"
+        },
+        {
+          "href": "#",
+          "ariaLabel": "Visit our YouTube page",
+          "src": "/icons/ri_youtube-fill.svg",
+          "alt": "YouTube logo"
+        }
+      ]
+    }
+  },
+  "Latest Author": {
+    "Date": "Date",
+    "City": "City"
+  },
+  "error": "Error loading author details.",
+  "Articles_component_Date": "Date",
+  "Articles_component_city": "City"
+}

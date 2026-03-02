@@ -1,0 +1,69 @@
+{
+  "PageTitle": {
+    "Title": "Podcast",
+    "imgSrc": "/images/titles/Podcast.svg",
+    "imgAlt": "The word 'Podcast' in bold, uppercase lettering"
+  },
+  "Back_Button": {
+    "Title": "Podcast",
+    "href": "/podcasts"
+  },
+  "Not_Found": {
+    "title": "Podcast Not Found | Essentials 101",
+    "description": "The Podcast you are looking for does not exist.",
+    "Not_Found": "No matching podcast found"
+  },
+
+  "Listen_On": {
+    "Title": "Listen on",
+    "links": [
+      {
+        "href": "#",
+        "ariaLabel": "Visit our Spotify page",
+        "src": "/icons/ri_spotify-fill.svg",
+        "alt": "Instagram logo"
+      },
+      {
+        "href": "#",
+        "ariaLabel": "Visit our Apple page",
+        "src": "/icons/ri_apple-fill.svg",
+        "alt": "Twitter logo"
+      },
+      {
+        "href": "#",
+        "ariaLabel": "Visit our Soundcloud page",
+        "src": "/icons/ri_soundcloud-line.svg",
+        "alt": "YouTube logo"
+      }
+    ]
+  },
+  "Podcast_Details": {
+    "Date": "Date",
+    "Duration": "Duration",
+    "Share": "Share",
+    "Share_Link": {
+      "links": [
+        {
+          "href": "#",
+          "ariaLabel": "Visit our Instagram page",
+          "src": "/icons/ri_instagram-line.svg",
+          "alt": "Instagram logo"
+        },
+        {
+          "href": "#",
+          "ariaLabel": "Visit our Twitter page",
+          "src": "/icons/ri_twitter-fill.svg",
+          "alt": "Twitter logo"
+        },
+        {
+          "href": "#",
+          "ariaLabel": "Visit our YouTube page",
+          "src": "/icons/ri_youtube-fill.svg",
+          "alt": "YouTube logo"
+        }
+      ]
+    }
+  },
+  "Latest_Episodes": "Latest Episodes",
+  "error": "Error loading podcast details."
+}

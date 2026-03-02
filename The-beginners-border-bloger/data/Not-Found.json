@@ -1,0 +1,12 @@
+{
+  "Metadata": {
+    "title": "Page not found | Essentials 101",
+    "description": "Page does not exist"
+  },
+  "error": "Not Found",
+  "Page_Title": "Not Found",
+  "Image_Path": "/images/titles/NotFound.svg",
+  "Image_Alt": "The words 'Not Found' in bold uppercase lettering",
+  "Description": "The page you&apos;re looking for does not exist. Click",
+  "Return_Home": "here to return home"
+}
