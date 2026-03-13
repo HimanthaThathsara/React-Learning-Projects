@@ -1,0 +1,221 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-background: #000000;
+  --color-foreground: #FFFFFF;
+
+  --color-card: #000000;
+  --color-card-foreground: #FFFFFF;
+
+  --color-popover: #000000;
+  --color-popover-foreground: #FFFFFF;
+
+  --color-primary: #FFFFFF;
+  --color-primary-foreground: #000000;
+
+  --color-secondary: #1A1A1A;
+  --color-secondary-foreground: #FFFFFF;
+
+  --color-muted: #808080;
+  --color-muted-foreground: #FFFFFF;
+
+  --color-accent: #FFFFFF;
+  --color-accent-foreground: #000000;
+
+  --color-destructive: #ef4444;
+  --color-destructive-foreground: #fafafa;
+
+  --color-border: #1A1A1A;
+  --color-input: #1A1A1A;
+  --color-ring: #FFFFFF;
+
+  --color-chart-1: #e67e22;
+  --color-chart-2: #2d8659;
+  --color-chart-3: #1e3a5f;
+  --color-chart-4: #f1c40f;
+  --color-chart-5: #e74c3c;
+
+  --color-sidebar: #000000;
+  --color-sidebar-foreground: #FFFFFF;
+  --color-sidebar-primary: #FFFFFF;
+  --color-sidebar-primary-foreground: #000000;
+  --color-sidebar-accent: #1A1A1A;
+  --color-sidebar-accent-foreground: #FFFFFF;
+  --color-sidebar-border: #1A1A1A;
+  --color-sidebar-ring: #FFFFFF;
+
+  --radius-lg: 0px;
+  --radius-md: 0px;
+  --radius-sm: 0px;
+
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+
+  --font-display: var(--font-jetbrains-mono);
+  --font-body: var(--font-jetbrains-mono);
+
+  @keyframes accordion-down {
+    from {
+      height: 0;
+    }
+
+    to {
+      height: var(--radix-accordion-content-height);
+    }
+  }
+
+  @keyframes accordion-up {
+    from {
+      height: var(--radix-accordion-content-height);
+    }
+
+    to {
+      height: 0;
+    }
+  }
+}
+
+/*
+  The default border color has changed to currentColor in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: #1A1A1A;
+  }
+}
+
+@layer utilities {
+  body {
+    font-family: var(--font-body);
+  }
+}
+
+@layer base {
+  :root {
+    --background: #000000;
+    --foreground: #FFFFFF;
+    --card: #000000;
+    --card-foreground: #FFFFFF;
+    --popover: #000000;
+    --popover-foreground: #FFFFFF;
+    --primary: #FFFFFF;
+    --primary-foreground: #000000;
+    --secondary: #1A1A1A;
+    --secondary-foreground: #FFFFFF;
+    --muted: #808080;
+    --muted-foreground: #FFFFFF;
+    --accent: #FFFFFF;
+    --accent-foreground: #000000;
+    --destructive: #ef4444;
+    --destructive-foreground: #fafafa;
+    --border: #1A1A1A;
+    --input: #1A1A1A;
+    --ring: #FFFFFF;
+    --chart-1: #e67e22;
+    --chart-2: #2d8659;
+    --chart-3: #1e3a5f;
+    --chart-4: #f1c40f;
+    --chart-5: #e74c3c;
+    --radius: 0px;
+    --sidebar-background: #000000;
+    --sidebar-foreground: #FFFFFF;
+    --sidebar-primary: #FFFFFF;
+    --sidebar-primary-foreground: #000000;
+    --sidebar-accent: #1A1A1A;
+    --sidebar-accent-foreground: #FFFFFF;
+    --sidebar-border: #1A1A1A;
+    --sidebar-ring: #FFFFFF;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-body);
+  }
+
+  h1 {
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: var(--color-foreground);
+  }
+
+  h2 {
+    font-size: 16px;
+    line-height: 1.3;
+    font-weight: 400;
+    color: var(--color-muted);
+  }
+
+  p {
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: var(--color-foreground);
+  }
+
+  small {
+    font-size: 12px;
+    line-height: 1.4;
+    font-weight: 400;
+    color: var(--color-muted);
+  }
+
+  a {
+    color: var(--color-foreground);
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: var(--color-accent);
+  }
+
+  .container {
+    max-width: 1400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media (min-width: 768px) {
+    .container {
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+
+    h1 {
+      font-size: 36px;
+    }
+
+    h2 {
+      font-size: 20px;
+    }
+
+    p {
+      font-size: 16px;
+    }
+
+    small {
+      font-size: 14px;
+    }
+  }
+}
